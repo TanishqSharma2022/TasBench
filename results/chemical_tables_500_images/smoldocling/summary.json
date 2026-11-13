@@ -1,0 +1,46 @@
+{
+  "model": "SmolDocling-256M",
+  "total_records": 500,
+  "overall": {
+    "count": 500,
+    "valid": 500,
+    "teds_struct": 0.12170424415570755,
+    "grits_top": 0.1090343032500149,
+    "grits_top_precision": 0.09414001799917025,
+    "grits_top_recall": 0.6124187719774733
+  },
+  "overall_by_complexity": {
+    "simple": {
+      "count": 150,
+      "teds_struct": 0.06933313412659539,
+      "grits_top": 0.07436122629375655
+    },
+    "complex": {
+      "count": 200,
+      "teds_struct": 0.17821500976574017,
+      "grits_top": 0.14866631498779323
+    }
+  },
+  "languages": {
+    "chemical": {
+      "count": 500,
+      "valid": 500,
+      "teds_struct": 0.12170424415570755,
+      "grits_top": 0.1090343032500149,
+      "grits_top_precision": 0.09414001799917025,
+      "grits_top_recall": 0.6124187719774733,
+      "by_complexity": {
+        "simple": {
+          "count": 150,
+          "teds_struct": 0.06933313412659539,
+          "grits_top": 0.07436122629375655
+        },
+        "complex": {
+          "count": 200,
+          "teds_struct": 0.17821500976574017,
+          "grits_top": 0.14866631498779323
+        }
+      }
+    }
+  }
+}

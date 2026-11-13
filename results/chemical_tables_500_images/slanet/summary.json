@@ -1,0 +1,46 @@
+{
+  "model": "SLANet-plus",
+  "total_records": 500,
+  "overall": {
+    "count": 500,
+    "valid": 500,
+    "teds_struct": 0.621267871891533,
+    "grits_top": 0.7407043394384452,
+    "grits_top_precision": 0.7551243552019787,
+    "grits_top_recall": 0.8322493362543202
+  },
+  "overall_by_complexity": {
+    "simple": {
+      "count": 150,
+      "teds_struct": 0.6604315126207453,
+      "grits_top": 0.8163121769457133
+    },
+    "complex": {
+      "count": 200,
+      "teds_struct": 0.6096919805007419,
+      "grits_top": 0.700278304936244
+    }
+  },
+  "languages": {
+    "chemical": {
+      "count": 500,
+      "valid": 500,
+      "teds_struct": 0.621267871891533,
+      "grits_top": 0.7407043394384452,
+      "grits_top_precision": 0.7551243552019787,
+      "grits_top_recall": 0.8322493362543202,
+      "by_complexity": {
+        "simple": {
+          "count": 150,
+          "teds_struct": 0.6604315126207453,
+          "grits_top": 0.8163121769457133
+        },
+        "complex": {
+          "count": 200,
+          "teds_struct": 0.6096919805007419,
+          "grits_top": 0.700278304936244
+        }
+      }
+    }
+  }
+}

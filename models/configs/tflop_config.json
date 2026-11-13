@@ -1,0 +1,35 @@
+{
+  "align_along_axis": false,
+  "architectures": [
+    "TFLOP"
+  ],
+  "bbox_token_cnt": 864,
+  "decoder_layer": 4,
+  "empty_cell_ptr_loss_coeff": 0.5,
+  "encoder_layer": [
+    2,
+    2,
+    14,
+    2
+  ],
+  "input_size": [
+    768,
+    768
+  ],
+  "max_length": 1376,
+  "max_num_col": 40,
+  "max_num_row": 40,
+  "max_position_embeddings": 1376,
+  "model_type": "tflop",
+  "non_empty_cell_ptr_loss_coeff": 0.5,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.31.0",
+  "use_ColWise_contLearning": true,
+  "use_RowWise_contLearning": true,
+  "use_bbox_HiMulConET": true,
+  "use_cell_bbox": false,
+  "use_fast_decoder": false,
+  "use_imgRoiAlign": true,
+  "use_ptr_decoder": true,
+  "window_size": 8
+}

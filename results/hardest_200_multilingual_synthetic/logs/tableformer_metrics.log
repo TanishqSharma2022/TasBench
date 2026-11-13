@@ -1,0 +1,4086 @@
+
+
+Scoring TableFormerV2 [eng_Latn]:   0%|          | 0/200 [00:00<?, ?it/s][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[AScoring TableFormerV2 [asm_Beng]:   0%|          | 0/200 [00:00<?, ?it/s]
+Scoring TableFormerV2 [ben_Beng]:   0%|          | 0/200 [00:00<?, ?it/s][A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  11%|█         | 22/200 [00:00<00:00, 215.29it/s][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  12%|█▏        | 23/200 [00:00<00:00, 228.87it/s][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:   0%|          | 0/200 [00:00<?, ?it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  12%|█▎        | 25/200 [00:00<00:00, 242.10it/s][A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:   8%|▊         | 15/200 [00:00<00:01, 143.24it/s][A[A[AScoring TableFormerV2 [asm_Beng]:  11%|█         | 22/200 [00:00<00:00, 219.08it/s]
+Scoring TableFormerV2 [ben_Beng]:  12%|█▏        | 23/200 [00:00<00:00, 228.50it/s][A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:   8%|▊         | 15/200 [00:00<00:01, 135.21it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:   8%|▊         | 15/200 [00:00<00:01, 146.86it/s][A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  22%|██▏       | 44/200 [00:00<00:00, 217.04it/s][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  23%|██▎       | 46/200 [00:00<00:00, 212.23it/s][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  18%|█▊        | 37/200 [00:00<00:00, 185.87it/s][A[A[AScoring TableFormerV2 [asm_Beng]:  22%|██▏       | 44/200 [00:00<00:00, 215.16it/s]
+Scoring TableFormerV2 [ben_Beng]:  23%|██▎       | 46/200 [00:00<00:00, 218.78it/s][A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:   6%|▌         | 11/200 [00:00<00:02, 84.44it/s][A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:   0%|          | 1/200 [00:00<00:52,  3.79it/s][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:   0%|          | 1/200 [00:00<00:47,  4.15it/s][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  25%|██▌       | 50/200 [00:00<00:00, 194.35it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  16%|█▌        | 32/200 [00:00<00:01, 150.35it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  16%|█▌        | 32/200 [00:00<00:01, 157.76it/s][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:   8%|▊         | 15/200 [00:00<00:03, 51.62it/s][A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  10%|█         | 20/200 [00:00<00:02, 64.34it/s][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  34%|███▍      | 68/200 [00:00<00:00, 163.31it/s][A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  24%|██▍       | 48/200 [00:00<00:01, 125.98it/s][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  33%|███▎      | 66/200 [00:00<00:01, 124.58it/s][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  34%|███▍      | 68/200 [00:00<00:01, 118.33it/s][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  28%|██▊       | 56/200 [00:00<00:01, 104.13it/s][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  14%|█▍        | 28/200 [00:00<00:02, 68.77it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:   8%|▊         | 16/200 [00:00<00:05, 35.01it/s][A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  24%|██▍       | 48/200 [00:00<00:01, 89.35it/s] [A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  12%|█▏        | 24/200 [00:00<00:03, 46.62it/s][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  31%|███       | 62/200 [00:00<00:01, 101.99it/s][A[A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  33%|███▎      | 66/200 [00:00<00:01, 94.14it/s] 
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  18%|█▊        | 36/200 [00:00<00:02, 68.63it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  13%|█▎        | 26/200 [00:00<00:03, 50.61it/s][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  16%|█▋        | 33/200 [00:00<00:02, 56.89it/s][A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  30%|███       | 60/200 [00:00<00:01, 86.93it/s][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  23%|██▎       | 46/200 [00:00<00:01, 77.55it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  18%|█▊        | 35/200 [00:00<00:02, 60.22it/s][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  22%|██▏       | 43/200 [00:00<00:02, 66.01it/s][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  22%|██▏       | 44/200 [00:00<00:02, 68.05it/s][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  27%|██▋       | 54/200 [00:00<00:01, 73.59it/s][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  35%|███▌      | 70/200 [00:00<00:01, 66.41it/s] [A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  36%|███▌      | 71/200 [00:00<00:02, 63.03it/s] [A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  26%|██▋       | 53/200 [00:00<00:02, 71.99it/s][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  26%|██▌       | 51/200 [00:00<00:02, 58.84it/s][A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  31%|███       | 62/200 [00:00<00:01, 70.73it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  30%|███       | 61/200 [00:01<00:01, 72.56it/s][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  30%|███       | 60/200 [00:01<00:02, 65.44it/s][A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  34%|███▍      | 68/200 [00:01<00:01, 66.62it/s][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  34%|███▍      | 69/200 [00:01<00:01, 70.51it/s][A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  36%|███▌      | 71/200 [00:01<00:02, 43.45it/s][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  35%|███▌      | 70/200 [00:01<00:03, 38.54it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  36%|███▋      | 73/200 [00:06<00:22,  5.77it/s] [A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  38%|███▊      | 76/200 [00:10<00:48,  2.53it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  38%|███▊      | 77/200 [00:10<00:46,  2.66it/s][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  38%|███▊      | 76/200 [00:11<00:49,  2.52it/s][A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  38%|███▊      | 77/200 [00:12<00:54,  2.24it/s][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  42%|████▏     | 84/200 [00:14<00:33,  3.46it/s][A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  40%|████      | 80/200 [00:14<00:42,  2.84it/s][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  40%|███▉      | 79/200 [00:14<00:50,  2.38it/s][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  43%|████▎     | 86/200 [00:14<00:32,  3.49it/s][A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  40%|████      | 81/200 [00:15<00:42,  2.80it/s][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  40%|████      | 80/200 [00:15<01:04,  1.86it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  40%|████      | 80/200 [00:15<00:49,  2.40it/s][A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  40%|████      | 81/200 [00:16<00:38,  3.06it/s]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  42%|████▏     | 83/200 [00:16<00:59,  1.98it/s][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  42%|████▏     | 83/200 [00:16<01:01,  1.91it/s][A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  41%|████      | 82/200 [00:16<00:38,  3.06it/s]
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  40%|████      | 81/200 [00:16<00:48,  2.44it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  42%|████▎     | 85/200 [00:16<00:56,  2.04it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  47%|████▋     | 94/200 [00:17<00:30,  3.47it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  42%|████▏     | 84/200 [00:17<00:40,  2.88it/s] [A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  42%|████▎     | 85/200 [00:17<00:50,  2.26it/s][A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  43%|████▎     | 86/200 [00:17<00:38,  2.98it/s] [A
+
+Scoring TableFormerV2 [eng_Latn]:  41%|████      | 82/200 [00:18<00:42,  2.75it/s] [A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  41%|████      | 82/200 [00:18<01:12,  1.62it/s][A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  43%|████▎     | 86/200 [00:18<00:39,  2.88it/s][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  44%|████▍     | 88/200 [00:18<00:43,  2.55it/s][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  43%|████▎     | 86/200 [00:18<00:46,  2.43it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  50%|█████     | 100/200 [00:18<00:27,  3.61it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  44%|████▎     | 87/200 [00:18<01:01,  1.83it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  44%|████▎     | 87/200 [00:18<00:58,  1.93it/s][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  44%|████▎     | 87/200 [00:18<00:40,  2.82it/s][A
+
+Scoring TableFormerV2 [eng_Latn]:  42%|████▏     | 84/200 [00:18<00:41,  2.76it/s][A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  44%|████▍     | 89/200 [00:19<00:46,  2.37it/s][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  45%|████▌     | 90/200 [00:19<00:53,  2.05it/s][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  43%|████▎     | 86/200 [00:19<01:04,  1.78it/s][A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  46%|████▌     | 92/200 [00:19<00:42,  2.54it/s][A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  46%|████▋     | 93/200 [00:19<00:39,  2.69it/s][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  45%|████▌     | 90/200 [00:20<00:58,  1.88it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  47%|████▋     | 94/200 [00:20<00:42,  2.49it/s][A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  46%|████▌     | 91/200 [00:20<00:38,  2.84it/s]
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  52%|█████▏    | 104/200 [00:20<00:29,  3.30it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  47%|████▋     | 94/200 [00:20<00:39,  2.70it/s][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  55%|█████▌    | 110/200 [00:20<00:20,  4.36it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  47%|████▋     | 94/200 [00:20<00:40,  2.63it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  60%|█████▉    | 119/200 [00:20<00:12,  6.60it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  45%|████▌     | 90/200 [00:20<00:47,  2.33it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  44%|████▍     | 89/200 [00:21<00:58,  1.90it/s][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  47%|████▋     | 94/200 [00:21<00:39,  2.68it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  48%|████▊     | 96/200 [00:21<00:41,  2.53it/s][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  48%|████▊     | 96/200 [00:21<00:46,  2.26it/s][A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  50%|█████     | 100/200 [00:21<00:31,  3.13it/s][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  48%|████▊     | 96/200 [00:21<00:45,  2.31it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  50%|████▉     | 99/200 [00:21<00:32,  3.15it/s][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  48%|████▊     | 96/200 [00:21<00:42,  2.42it/s][A[A[A
+Scoring TableFormerV2 [ben_Beng]:  49%|████▉     | 98/200 [00:22<00:34,  2.96it/s][AScoring TableFormerV2 [asm_Beng]:  48%|████▊     | 97/200 [00:22<00:35,  2.91it/s]
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  50%|█████     | 101/200 [00:22<00:29,  3.32it/s][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  46%|████▌     | 91/200 [00:22<00:58,  1.85it/s][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  51%|█████     | 102/200 [00:22<00:31,  3.15it/s][A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  48%|████▊     | 96/200 [00:22<00:41,  2.53it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  50%|█████     | 101/200 [00:22<00:30,  3.28it/s][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  50%|█████     | 101/200 [00:22<00:32,  3.02it/s][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  52%|█████▏    | 104/200 [00:22<00:24,  3.91it/s][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  47%|████▋     | 94/200 [00:22<00:45,  2.34it/s][A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  56%|█████▋    | 113/200 [00:22<00:11,  7.67it/s][A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  47%|████▋     | 94/200 [00:22<00:38,  2.72it/s]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  52%|█████▏    | 104/200 [00:22<00:28,  3.38it/s][A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  60%|█████▉    | 119/200 [00:22<00:07, 10.69it/s][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  54%|█████▎    | 107/200 [00:22<00:20,  4.59it/s][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  48%|████▊     | 96/200 [00:22<00:39,  2.67it/s][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  55%|█████▌    | 110/200 [00:22<00:14,  6.12it/s][A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  57%|█████▋    | 114/200 [00:23<00:09,  8.69it/s][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  52%|█████▏    | 104/200 [00:23<00:29,  3.24it/s][A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  58%|█████▊    | 117/200 [00:23<00:07, 10.79it/s][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  54%|█████▎    | 107/200 [00:23<00:23,  3.98it/s][A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  61%|██████    | 122/200 [00:23<00:05, 15.16it/s][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  62%|██████▎   | 125/200 [00:23<00:17,  4.32it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  52%|█████▏    | 104/200 [00:23<00:29,  3.22it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  50%|█████     | 101/200 [00:23<00:34,  2.89it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  54%|█████▍    | 108/200 [00:23<00:18,  4.88it/s][A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  50%|█████     | 101/200 [00:23<00:33,  2.92it/s]
+
+
+Scoring TableFormerV2 [guj_Gujr]:  55%|█████▌    | 110/200 [00:23<00:19,  4.51it/s][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  56%|█████▌    | 112/200 [00:23<00:12,  7.00it/s][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  57%|█████▋    | 114/200 [00:23<00:14,  6.09it/s][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  58%|█████▊    | 116/200 [00:23<00:08,  9.55it/s][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  60%|██████    | 120/200 [00:23<00:08,  9.42it/s][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  62%|██████▏   | 123/200 [00:23<00:10,  7.23it/s][A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  52%|█████▎    | 105/200 [00:23<00:30,  3.12it/s][A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  48%|████▊     | 96/200 [00:23<00:49,  2.10it/s][A[A[A[AScoring TableFormerV2 [asm_Beng]:  52%|█████▏    | 104/200 [00:23<00:30,  3.17it/s]
+Scoring TableFormerV2 [ben_Beng]:  56%|█████▌    | 111/200 [00:24<00:23,  3.86it/s][A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  51%|█████     | 102/200 [00:24<00:33,  2.93it/s][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  56%|█████▋    | 113/200 [00:24<00:17,  5.06it/s]
+Scoring TableFormerV2 [ben_Beng]:  60%|██████    | 120/200 [00:24<00:14,  5.45it/s][AScoring TableFormerV2 [asm_Beng]:  61%|██████    | 122/200 [00:24<00:10,  7.63it/s]
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  52%|█████▏    | 104/200 [00:24<00:31,  3.04it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  55%|█████▌    | 110/200 [00:24<00:19,  4.66it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  50%|█████     | 101/200 [00:24<00:32,  3.07it/s][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  58%|█████▊    | 116/200 [00:24<00:12,  6.81it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  61%|██████    | 122/200 [00:24<00:08,  9.60it/s][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  50%|█████     | 101/200 [00:24<00:34,  2.89it/s][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  54%|█████▎    | 107/200 [00:24<00:27,  3.35it/s][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  62%|██████▏   | 123/200 [00:24<00:09,  8.44it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  57%|█████▋    | 114/200 [00:24<00:19,  4.50it/s][A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  63%|██████▎   | 126/200 [00:24<00:12,  5.76it/s][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  64%|██████▍   | 129/200 [00:24<00:18,  3.88it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  60%|█████▉    | 119/200 [00:24<00:14,  5.52it/s][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  66%|██████▋   | 133/200 [00:24<00:13,  4.79it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  68%|██████▊   | 136/200 [00:25<00:11,  5.66it/s][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  70%|███████   | 140/200 [00:25<00:08,  7.28it/s][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  62%|██████▎   | 125/200 [00:25<00:15,  4.72it/s][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  53%|█████▎    | 106/200 [00:25<00:29,  3.20it/s][A[A
+
+Scoring TableFormerV2 [eng_Latn]:  55%|█████▌    | 110/200 [00:25<00:23,  3.78it/s][A[A
+
+Scoring TableFormerV2 [eng_Latn]:  57%|█████▋    | 114/200 [00:25<00:18,  4.60it/s][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  52%|█████▏    | 104/200 [00:25<00:33,  2.88it/s][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  59%|█████▉    | 118/200 [00:25<00:14,  5.66it/s][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  54%|█████▍    | 108/200 [00:25<00:22,  4.08it/s][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  61%|██████    | 122/200 [00:25<00:11,  7.06it/s][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  56%|█████▌    | 112/200 [00:26<00:15,  5.71it/s][A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  62%|██████▏   | 124/200 [00:26<00:17,  4.33it/s][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  63%|██████▎   | 126/200 [00:25<00:14,  5.18it/s][A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  60%|██████    | 120/200 [00:26<00:07, 10.28it/s][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  64%|██████▍   | 128/200 [00:26<00:17,  4.23it/s][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  63%|██████▎   | 126/200 [00:26<00:16,  4.50it/s][A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  62%|██████▏   | 123/200 [00:26<00:16,  4.65it/s][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  64%|██████▍   | 128/200 [00:26<00:14,  5.02it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  64%|██████▍   | 129/200 [00:26<00:18,  3.79it/s][A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  69%|██████▉   | 138/200 [00:26<00:08,  7.13it/s][A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  64%|██████▎   | 127/200 [00:26<00:16,  4.39it/s][A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  65%|██████▌   | 130/200 [00:26<00:17,  4.02it/s][A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  67%|██████▋   | 134/200 [00:26<00:11,  5.88it/s][A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  64%|██████▍   | 128/200 [00:26<00:15,  4.70it/s]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  68%|██████▊   | 137/200 [00:26<00:08,  7.61it/s][A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  70%|███████   | 140/200 [00:27<00:06,  9.65it/s][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  63%|██████▎   | 126/200 [00:27<00:17,  4.26it/s][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  64%|██████▎   | 127/200 [00:27<00:17,  4.14it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  65%|██████▌   | 130/200 [00:27<00:19,  3.53it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  69%|██████▉   | 138/200 [00:27<00:08,  7.15it/s][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  66%|██████▌   | 131/200 [00:27<00:16,  4.11it/s][A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  62%|██████▏   | 124/200 [00:28<00:14,  5.12it/s][A[A[A[AScoring TableFormerV2 [asm_Beng]:  66%|██████▌   | 132/200 [00:28<00:15,  4.45it/s]
+Scoring TableFormerV2 [ben_Beng]:  70%|███████   | 140/200 [00:28<00:09,  6.16it/s][A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  64%|██████▍   | 128/200 [00:28<00:18,  3.98it/s][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  64%|██████▍   | 129/200 [00:28<00:22,  3.19it/s][A[A[AScoring TableFormerV2 [asm_Beng]:  70%|███████   | 140/200 [00:28<00:08,  6.71it/s]
+
+Scoring TableFormerV2 [eng_Latn]:  63%|██████▎   | 126/200 [00:28<00:18,  4.03it/s][A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  67%|██████▋   | 134/200 [00:28<00:13,  5.00it/s][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  65%|██████▌   | 130/200 [00:28<00:17,  4.11it/s][A[A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  70%|███████   | 140/200 [00:28<00:07,  7.83it/s][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  70%|██████▉   | 139/200 [00:28<00:08,  7.26it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  64%|██████▎   | 127/200 [00:28<00:13,  5.47it/s][A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  65%|██████▌   | 130/200 [00:28<00:17,  3.91it/s][A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  67%|██████▋   | 134/200 [00:28<00:11,  5.51it/s][A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  69%|██████▉   | 138/200 [00:28<00:08,  7.43it/s][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  65%|██████▌   | 130/200 [00:29<00:14,  4.73it/s][A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  67%|██████▋   | 134/200 [00:29<00:10,  6.45it/s][A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  69%|██████▉   | 138/200 [00:29<00:07,  8.57it/s][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  64%|██████▍   | 129/200 [00:29<00:22,  3.15it/s][A[A
+
+Scoring TableFormerV2 [eng_Latn]:  68%|██████▊   | 136/200 [00:30<00:12,  5.20it/s][A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  70%|███████   | 141/200 [00:33<00:33,  1.78it/s][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  70%|███████   | 141/200 [00:35<00:41,  1.44it/s][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  70%|███████   | 141/200 [00:36<00:36,  1.62it/s][A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  71%|███████   | 142/200 [00:36<00:39,  1.47it/s][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  72%|███████▏  | 143/200 [00:36<00:55,  1.03it/s][A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  70%|███████   | 141/200 [00:37<00:33,  1.76it/s][A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  72%|███████▏  | 144/200 [00:39<01:04,  1.16s/it][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  72%|███████▏  | 143/200 [00:39<01:14,  1.31s/it][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  70%|███████   | 140/200 [00:40<00:09,  6.16it/s][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  70%|███████   | 140/200 [00:40<00:07,  7.83it/s][A[A[A
+Scoring TableFormerV2 [ben_Beng]:  72%|███████▏  | 143/200 [00:40<00:40,  1.40it/s][A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  70%|██████▉   | 139/200 [00:40<00:08,  7.26it/s][A[A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  70%|███████   | 140/200 [00:40<00:08,  6.71it/s]Scoring TableFormerV2 [asm_Beng]:  72%|███████▏  | 143/200 [00:40<00:43,  1.30it/s]
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  72%|███████▏  | 143/200 [00:41<01:01,  1.08s/it][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  72%|███████▏  | 143/200 [00:41<00:59,  1.05s/it][A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  72%|███████▏  | 143/200 [00:41<00:57,  1.01s/it][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  72%|███████▏  | 143/200 [00:41<00:48,  1.18it/s][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  72%|███████▏  | 144/200 [00:41<01:18,  1.41s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  72%|███████▏  | 144/200 [00:42<01:01,  1.10s/it][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  72%|███████▏  | 144/200 [00:42<00:47,  1.19it/s][AScoring TableFormerV2 [asm_Beng]:  72%|███████▏  | 144/200 [00:43<00:53,  1.04it/s]
+
+
+Scoring TableFormerV2 [guj_Gujr]:  72%|███████▏  | 144/200 [00:43<01:06,  1.19s/it][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  72%|███████▏  | 144/200 [00:44<00:57,  1.03s/it][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  72%|███████▏  | 144/200 [00:45<00:56,  1.01s/it][A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  72%|███████▎  | 145/200 [00:48<01:16,  1.40s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  72%|███████▏  | 144/200 [00:50<01:04,  1.16s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  72%|███████▎  | 145/200 [00:52<01:51,  2.03s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  73%|███████▎  | 146/200 [00:52<01:37,  1.81s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  73%|███████▎  | 146/200 [00:52<02:09,  2.39s/it][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  74%|███████▎  | 147/200 [00:52<01:47,  2.04s/it][A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  72%|███████▎  | 145/200 [00:52<01:48,  1.98s/it][A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  73%|███████▎  | 146/200 [00:52<01:26,  1.60s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  74%|███████▍  | 148/200 [00:54<01:43,  1.99s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  73%|███████▎  | 146/200 [00:55<01:57,  2.17s/it][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  74%|███████▎  | 147/200 [00:55<02:09,  2.45s/it][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  73%|███████▎  | 146/200 [00:55<01:54,  2.12s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  73%|███████▎  | 146/200 [00:55<01:30,  1.67s/it][A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  74%|███████▍  | 148/200 [00:56<01:37,  1.87s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  74%|███████▍  | 148/200 [00:56<01:27,  1.69s/it][A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  74%|███████▍  | 148/200 [00:57<01:23,  1.60s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  74%|███████▎  | 147/200 [00:57<01:57,  2.22s/it][A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  75%|███████▌  | 150/200 [00:57<01:39,  1.98s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  74%|███████▎  | 147/200 [00:58<02:02,  2.31s/it][A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  74%|███████▎  | 147/200 [00:58<01:34,  1.79s/it][A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  74%|███████▍  | 149/200 [00:58<01:37,  1.91s/it][A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  74%|███████▍  | 148/200 [00:58<01:32,  1.77s/it]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  74%|███████▍  | 149/200 [00:58<01:55,  2.26s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  74%|███████▎  | 147/200 [00:58<01:40,  1.90s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  74%|███████▎  | 147/200 [00:58<02:02,  2.32s/it][A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  74%|███████▍  | 149/200 [00:59<01:23,  1.64s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  74%|███████▍  | 148/200 [00:59<01:52,  2.16s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  74%|███████▍  | 148/200 [00:59<01:55,  2.21s/it][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  75%|███████▌  | 150/200 [01:00<01:49,  2.19s/it][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  74%|███████▍  | 148/200 [01:00<01:56,  2.23s/it][A[A[A[AScoring TableFormerV2 [asm_Beng]:  74%|███████▍  | 149/200 [01:00<01:31,  1.80s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  75%|███████▌  | 150/200 [01:01<01:40,  2.01s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  74%|███████▍  | 148/200 [01:01<01:40,  1.94s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  75%|███████▌  | 150/200 [01:01<01:34,  1.89s/it][A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  74%|███████▍  | 149/200 [01:01<01:49,  2.16s/it][A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  74%|███████▍  | 149/200 [01:02<01:35,  1.87s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  74%|███████▍  | 149/200 [01:02<01:53,  2.22s/it][A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  75%|███████▌  | 150/200 [01:03<01:46,  2.13s/it][A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  76%|███████▌  | 151/200 [01:03<01:56,  2.38s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  75%|███████▌  | 150/200 [01:04<01:46,  2.14s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  76%|███████▌  | 151/200 [01:04<01:47,  2.20s/it][A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  75%|███████▌  | 150/200 [01:04<01:31,  1.83s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  75%|███████▌  | 150/200 [01:04<01:45,  2.11s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  76%|███████▌  | 152/200 [01:05<01:55,  2.40s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  76%|███████▌  | 151/200 [01:05<01:41,  2.07s/it][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  76%|███████▌  | 152/200 [01:06<01:55,  2.41s/it][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  76%|███████▋  | 153/200 [01:07<01:50,  2.35s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  76%|███████▌  | 151/200 [01:07<01:59,  2.43s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  76%|███████▌  | 152/200 [01:07<01:56,  2.43s/it][A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  76%|███████▌  | 151/200 [01:08<01:49,  2.23s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  76%|███████▌  | 151/200 [01:08<02:05,  2.56s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  76%|███████▋  | 153/200 [01:08<01:52,  2.39s/it][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  76%|███████▌  | 152/200 [01:08<01:37,  2.03s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  76%|███████▌  | 152/200 [01:08<01:53,  2.36s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  76%|███████▌  | 151/200 [01:10<01:51,  2.27s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  76%|███████▋  | 153/200 [01:10<01:57,  2.49s/it][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  76%|███████▌  | 152/200 [01:10<01:59,  2.49s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  76%|███████▌  | 152/200 [01:10<02:10,  2.71s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  76%|███████▌  | 152/200 [01:11<01:49,  2.27s/it]
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  76%|███████▋  | 153/200 [01:11<01:50,  2.35s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  77%|███████▋  | 154/200 [01:11<02:09,  2.81s/it][A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  76%|███████▌  | 152/200 [01:12<02:00,  2.51s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  76%|███████▌  | 152/200 [01:12<02:17,  2.86s/it][A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  76%|███████▋  | 153/200 [01:13<01:55,  2.47s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  76%|███████▋  | 153/200 [01:13<02:01,  2.58s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  78%|███████▊  | 155/200 [01:13<01:52,  2.51s/it][A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  76%|███████▋  | 153/200 [01:13<01:48,  2.32s/it]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  77%|███████▋  | 154/200 [01:14<02:28,  3.24s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  76%|███████▋  | 153/200 [01:14<01:55,  2.45s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  76%|███████▋  | 153/200 [01:14<02:05,  2.67s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  78%|███████▊  | 156/200 [01:15<01:46,  2.42s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  77%|███████▋  | 154/200 [01:15<02:28,  3.22s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  76%|███████▋  | 153/200 [01:15<01:52,  2.40s/it][A[A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  77%|███████▋  | 154/200 [01:16<01:50,  2.40s/it][A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  78%|███████▊  | 155/200 [01:16<02:14,  2.99s/it][A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  77%|███████▋  | 154/200 [01:16<02:18,  3.01s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  78%|███████▊  | 155/200 [01:17<02:07,  2.83s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  78%|███████▊  | 157/200 [01:17<01:44,  2.42s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  78%|███████▊  | 155/200 [01:18<02:01,  2.71s/it][A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  77%|███████▋  | 154/200 [01:19<02:24,  3.15s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  77%|███████▋  | 154/200 [01:19<02:46,  3.62s/it][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  78%|███████▊  | 156/200 [01:19<02:10,  2.96s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  77%|███████▋  | 154/200 [01:19<02:21,  3.08s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  77%|███████▋  | 154/200 [01:19<02:34,  3.37s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  79%|███████▉  | 158/200 [01:19<01:36,  2.30s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  78%|███████▊  | 156/200 [01:20<02:14,  3.05s/it][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  78%|███████▊  | 155/200 [01:20<02:09,  2.88s/it][A[A[A
+Scoring TableFormerV2 [ben_Beng]:  78%|███████▊  | 156/200 [01:21<01:44,  2.39s/it][A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  78%|███████▊  | 155/200 [01:21<02:19,  3.10s/it][A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  78%|███████▊  | 156/200 [01:21<02:00,  2.74s/it][A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  78%|███████▊  | 155/200 [01:21<02:05,  2.79s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  78%|███████▊  | 155/200 [01:21<02:13,  2.96s/it][A[A[A[AScoring TableFormerV2 [asm_Beng]:  78%|███████▊  | 155/200 [01:21<02:04,  2.78s/it]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  78%|███████▊  | 157/200 [01:22<02:04,  2.88s/it][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  80%|███████▉  | 159/200 [01:22<01:40,  2.46s/it][A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  78%|███████▊  | 157/200 [01:22<01:39,  2.32s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  78%|███████▊  | 157/200 [01:23<01:47,  2.51s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  78%|███████▊  | 157/200 [01:22<01:59,  2.78s/it][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  78%|███████▊  | 156/200 [01:23<02:00,  2.74s/it][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  78%|███████▊  | 155/200 [01:23<02:04,  2.76s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  78%|███████▊  | 156/200 [01:24<02:16,  3.10s/it][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  79%|███████▉  | 158/200 [01:24<01:55,  2.75s/it][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  78%|███████▊  | 156/200 [01:24<02:11,  3.00s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  78%|███████▊  | 156/200 [01:24<02:07,  2.89s/it][A[A
+Scoring TableFormerV2 [ben_Beng]:  79%|███████▉  | 158/200 [01:24<01:34,  2.25s/it][A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  79%|███████▉  | 158/200 [01:24<01:44,  2.50s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  79%|███████▉  | 158/200 [01:24<01:39,  2.36s/it][A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  78%|███████▊  | 157/200 [01:25<01:49,  2.54s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  78%|███████▊  | 157/200 [01:26<01:59,  2.77s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  78%|███████▊  | 156/200 [01:26<02:01,  2.75s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  78%|███████▊  | 157/200 [01:26<01:54,  2.65s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  80%|███████▉  | 159/200 [01:26<01:43,  2.51s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  78%|███████▊  | 157/200 [01:26<01:52,  2.62s/it][A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  80%|████████  | 160/200 [01:26<01:53,  2.85s/it][A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  78%|███████▊  | 157/200 [01:26<01:54,  2.65s/it]
+
+
+Scoring TableFormerV2 [guj_Gujr]:  79%|███████▉  | 158/200 [01:26<01:38,  2.33s/it][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  80%|███████▉  | 159/200 [01:26<01:38,  2.41s/it][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  80%|███████▉  | 159/200 [01:27<01:36,  2.35s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  80%|███████▉  | 159/200 [01:27<01:40,  2.46s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  80%|████████  | 161/200 [01:27<01:34,  2.43s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  78%|███████▊  | 157/200 [01:27<01:50,  2.57s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  79%|███████▉  | 158/200 [01:28<01:45,  2.51s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  79%|███████▉  | 158/200 [01:28<01:40,  2.39s/it][A[A[A[AScoring TableFormerV2 [asm_Beng]:  79%|███████▉  | 158/200 [01:28<01:44,  2.50s/it]
+
+Scoring TableFormerV2 [eng_Latn]:  79%|███████▉  | 158/200 [01:28<01:40,  2.39s/it][A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  80%|███████▉  | 159/200 [01:29<01:33,  2.27s/it][A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  81%|████████  | 162/200 [01:29<01:20,  2.13s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  79%|███████▉  | 158/200 [01:29<01:39,  2.36s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  80%|████████  | 160/200 [01:29<01:46,  2.67s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  80%|███████▉  | 159/200 [01:30<01:40,  2.45s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  80%|███████▉  | 159/200 [01:30<01:35,  2.32s/it][A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  80%|████████  | 160/200 [01:30<01:48,  2.71s/it][A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  80%|███████▉  | 159/200 [01:30<01:41,  2.47s/it]
+
+Scoring TableFormerV2 [eng_Latn]:  80%|███████▉  | 159/200 [01:30<01:37,  2.38s/it][A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  82%|████████▏ | 163/200 [01:31<01:15,  2.04s/it][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  80%|████████  | 161/200 [01:31<01:31,  2.36s/it][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  80%|████████  | 160/200 [01:31<01:45,  2.64s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  80%|████████  | 160/200 [01:31<01:51,  2.79s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  80%|████████  | 161/200 [01:32<01:33,  2.41s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  82%|████████▏ | 164/200 [01:32<01:06,  1.86s/it][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  81%|████████  | 162/200 [01:32<01:20,  2.11s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  80%|███████▉  | 159/200 [01:32<01:46,  2.60s/it][A[A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  80%|████████  | 161/200 [01:33<01:35,  2.45s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  80%|████████  | 160/200 [01:33<01:51,  2.78s/it][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  80%|████████  | 161/200 [01:33<01:38,  2.51s/it][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  82%|████████▏ | 163/200 [01:34<01:08,  1.86s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  80%|████████  | 160/200 [01:34<01:54,  2.87s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  81%|████████  | 162/200 [01:34<01:28,  2.32s/it][A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  80%|████████  | 160/200 [01:34<01:53,  2.85s/it][A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  80%|████████  | 161/200 [01:34<01:37,  2.50s/it][A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  80%|████████  | 160/200 [01:34<01:56,  2.91s/it][A[AScoring TableFormerV2 [asm_Beng]:  80%|████████  | 160/200 [01:34<01:54,  2.85s/it]
+Scoring TableFormerV2 [ben_Beng]:  81%|████████  | 162/200 [01:35<01:30,  2.38s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  81%|████████  | 162/200 [01:35<01:31,  2.42s/it][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  82%|████████▏ | 164/200 [01:35<01:03,  1.76s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  80%|████████  | 161/200 [01:35<01:36,  2.48s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  82%|████████▏ | 163/200 [01:35<01:17,  2.10s/it][A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  80%|████████  | 161/200 [01:36<01:42,  2.62s/it][A[A[A[AScoring TableFormerV2 [asm_Beng]:  80%|████████  | 161/200 [01:36<01:41,  2.61s/it]
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  80%|████████  | 160/200 [01:36<01:56,  2.92s/it][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  80%|████████  | 161/200 [01:37<01:43,  2.67s/it][A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  81%|████████  | 162/200 [01:37<01:31,  2.41s/it][A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  82%|████████▎ | 165/200 [01:37<01:34,  2.71s/it][A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  82%|████████▏ | 163/200 [01:37<01:24,  2.29s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  82%|████████▏ | 163/200 [01:37<01:25,  2.30s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  82%|████████▏ | 164/200 [01:37<01:15,  2.09s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  80%|████████  | 161/200 [01:38<01:44,  2.68s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  81%|████████  | 162/200 [01:39<01:44,  2.76s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  81%|████████  | 162/200 [01:39<01:40,  2.64s/it][A[A[A[AScoring TableFormerV2 [asm_Beng]:  81%|████████  | 162/200 [01:39<01:38,  2.58s/it]
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  82%|████████▏ | 164/200 [01:39<01:18,  2.19s/it][A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  82%|████████▏ | 164/200 [01:39<01:19,  2.21s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  82%|████████▏ | 163/200 [01:39<01:27,  2.37s/it][A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  81%|████████  | 162/200 [01:39<01:40,  2.63s/it][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  82%|████████▏ | 163/200 [01:40<01:24,  2.28s/it][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  82%|████████▏ | 164/200 [01:40<01:13,  2.04s/it][A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  82%|████████▏ | 163/200 [01:40<01:24,  2.28s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  82%|████████▎ | 165/200 [01:41<01:40,  2.87s/it][A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  82%|████████▏ | 163/200 [01:41<01:28,  2.39s/it]
+
+Scoring TableFormerV2 [eng_Latn]:  82%|████████▏ | 163/200 [01:41<01:28,  2.39s/it][A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  81%|████████  | 162/200 [01:41<01:40,  2.63s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  82%|████████▏ | 164/200 [01:42<01:14,  2.08s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  82%|████████▏ | 164/200 [01:42<01:18,  2.17s/it][A[A[A[AScoring TableFormerV2 [asm_Beng]:  82%|████████▏ | 164/200 [01:42<01:17,  2.16s/it]
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  82%|████████▏ | 163/200 [01:42<01:26,  2.35s/it][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  82%|████████▏ | 164/200 [01:43<01:23,  2.32s/it][A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  82%|████████▎ | 165/200 [01:43<01:50,  3.15s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  83%|████████▎ | 166/200 [01:43<02:11,  3.85s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  82%|████████▏ | 164/200 [01:44<01:12,  2.02s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  82%|████████▎ | 165/200 [01:45<01:55,  3.30s/it][A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  82%|████████▎ | 165/200 [01:45<01:59,  3.41s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  82%|████████▎ | 165/200 [01:46<01:47,  3.08s/it][A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  83%|████████▎ | 166/200 [01:47<02:13,  3.92s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  82%|████████▎ | 165/200 [01:47<01:53,  3.24s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  82%|████████▎ | 165/200 [01:48<01:51,  3.20s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  82%|████████▎ | 165/200 [01:48<01:47,  3.08s/it][A[AScoring TableFormerV2 [asm_Beng]:  82%|████████▎ | 165/200 [01:48<01:54,  3.27s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  83%|████████▎ | 166/200 [01:49<02:18,  4.08s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  84%|████████▎ | 167/200 [01:50<02:31,  4.58s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  83%|████████▎ | 166/200 [01:50<02:16,  4.01s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  82%|████████▎ | 165/200 [01:51<02:03,  3.53s/it][A[A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  83%|████████▎ | 166/200 [01:52<02:23,  4.23s/it][A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  84%|████████▎ | 167/200 [01:52<02:21,  4.28s/it][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  83%|████████▎ | 166/200 [01:52<02:18,  4.07s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  83%|████████▎ | 166/200 [01:53<02:10,  3.84s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  83%|████████▎ | 166/200 [01:54<02:20,  4.13s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  83%|████████▎ | 166/200 [01:54<02:19,  4.11s/it][A[AScoring TableFormerV2 [asm_Beng]:  83%|████████▎ | 166/200 [01:54<02:19,  4.10s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  84%|████████▎ | 167/200 [01:55<02:32,  4.62s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  84%|████████▍ | 168/200 [01:57<02:50,  5.33s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  84%|████████▎ | 167/200 [01:57<02:38,  4.80s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  83%|████████▎ | 166/200 [01:57<02:29,  4.41s/it][A[A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  84%|████████▎ | 167/200 [01:58<02:36,  4.75s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  84%|████████▎ | 167/200 [01:58<02:32,  4.63s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  84%|████████▎ | 167/200 [01:59<02:31,  4.60s/it][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  84%|████████▍ | 168/200 [01:59<02:47,  5.23s/it][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  84%|████████▍ | 169/200 [02:00<02:21,  4.55s/it][A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  84%|████████▎ | 167/200 [02:00<02:38,  4.79s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  84%|████████▎ | 167/200 [02:01<02:35,  4.71s/it][A[AScoring TableFormerV2 [asm_Beng]:  84%|████████▎ | 167/200 [02:01<02:39,  4.83s/it]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  84%|████████▍ | 169/200 [02:02<02:20,  4.53s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  84%|████████▍ | 168/200 [02:04<03:05,  5.79s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  85%|████████▌ | 170/200 [02:04<02:14,  4.50s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  84%|████████▎ | 167/200 [02:04<02:45,  5.02s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  84%|████████▍ | 168/200 [02:04<02:56,  5.52s/it][A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  84%|████████▍ | 168/200 [02:05<02:58,  5.57s/it][A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  86%|████████▌ | 171/200 [02:06<01:47,  3.69s/it][A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  84%|████████▍ | 168/200 [02:06<02:59,  5.61s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  84%|████████▍ | 168/200 [02:06<02:50,  5.33s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  84%|████████▍ | 169/200 [02:06<02:29,  4.81s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  85%|████████▌ | 170/200 [02:07<02:14,  4.48s/it][A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  84%|████████▍ | 169/200 [02:08<02:31,  4.90s/it][A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  84%|████████▍ | 169/200 [02:08<02:28,  4.79s/it][AScoring TableFormerV2 [asm_Beng]:  84%|████████▍ | 168/200 [02:08<02:55,  5.47s/it]
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  84%|████████▍ | 168/200 [02:08<03:01,  5.68s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  86%|████████▌ | 171/200 [02:08<01:45,  3.64s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  84%|████████▍ | 168/200 [02:09<03:03,  5.73s/it][A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  84%|████████▍ | 169/200 [02:09<02:30,  4.87s/it][A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  84%|████████▍ | 169/200 [02:10<02:27,  4.76s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  86%|████████▌ | 172/200 [02:10<01:49,  3.90s/it][A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  84%|████████▍ | 169/200 [02:11<02:28,  4.79s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  85%|████████▌ | 170/200 [02:11<02:27,  4.91s/it][A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  84%|████████▍ | 169/200 [02:11<02:34,  4.97s/it][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  84%|████████▍ | 168/200 [02:12<03:05,  5.78s/it][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  84%|████████▍ | 169/200 [02:12<02:32,  4.93s/it][A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  86%|████████▋ | 173/200 [02:12<01:27,  3.23s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  85%|████████▌ | 170/200 [02:12<02:20,  4.67s/it][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  86%|████████▌ | 172/200 [02:12<01:42,  3.66s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  86%|████████▌ | 171/200 [02:12<01:48,  3.73s/it][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  85%|████████▌ | 170/200 [02:12<02:20,  4.67s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  85%|████████▌ | 170/200 [02:13<02:16,  4.56s/it][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  86%|████████▌ | 171/200 [02:13<01:45,  3.63s/it][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  86%|████████▋ | 173/200 [02:13<01:17,  2.86s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  85%|████████▌ | 170/200 [02:13<02:14,  4.49s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  84%|████████▍ | 169/200 [02:13<02:22,  4.61s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  87%|████████▋ | 174/200 [02:14<01:13,  2.84s/it][A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  86%|████████▌ | 171/200 [02:14<01:45,  3.65s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  86%|████████▌ | 171/200 [02:14<01:44,  3.62s/it][A[A[AScoring TableFormerV2 [asm_Beng]:  85%|████████▌ | 170/200 [02:15<02:10,  4.37s/it]
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  86%|████████▌ | 171/200 [02:15<01:42,  3.53s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  85%|████████▌ | 170/200 [02:15<02:14,  4.49s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  85%|████████▌ | 170/200 [02:15<02:14,  4.49s/it][A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  87%|████████▋ | 174/200 [02:15<01:08,  2.63s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  86%|████████▌ | 172/200 [02:15<01:37,  3.50s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  88%|████████▊ | 175/200 [02:16<01:07,  2.71s/it][A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  86%|████████▌ | 171/200 [02:16<01:44,  3.59s/it]
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  86%|████████▌ | 172/200 [02:16<01:40,  3.58s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  86%|████████▌ | 171/200 [02:17<01:47,  3.70s/it][A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  86%|████████▋ | 173/200 [02:17<01:17,  2.88s/it][A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  86%|████████▌ | 171/200 [02:17<01:45,  3.65s/it][A[A
+Scoring TableFormerV2 [ben_Beng]:  86%|████████▌ | 172/200 [02:17<01:40,  3.61s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  86%|████████▋ | 173/200 [02:18<01:16,  2.84s/it][A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  86%|████████▌ | 172/200 [02:18<01:41,  3.61s/it][A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  88%|████████▊ | 176/200 [02:18<00:59,  2.47s/it][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  88%|████████▊ | 175/200 [02:18<01:07,  2.68s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  85%|████████▌ | 170/200 [02:18<02:21,  4.73s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  86%|████████▌ | 172/200 [02:19<01:46,  3.80s/it][A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  86%|████████▋ | 173/200 [02:19<01:25,  3.15s/it][A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  87%|████████▋ | 174/200 [02:19<01:12,  2.78s/it][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  86%|████████▋ | 173/200 [02:20<01:22,  3.04s/it][A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  88%|████████▊ | 176/200 [02:20<00:58,  2.45s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  86%|████████▌ | 171/200 [02:20<01:50,  3.80s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  86%|████████▋ | 173/200 [02:20<01:21,  3.01s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  86%|████████▌ | 172/200 [02:21<01:46,  3.79s/it]
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  87%|████████▋ | 174/200 [02:21<01:16,  2.95s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  88%|████████▊ | 177/200 [02:21<01:00,  2.64s/it][A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  86%|████████▌ | 172/200 [02:21<01:49,  3.90s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  86%|████████▌ | 172/200 [02:21<01:50,  3.93s/it][A[AScoring TableFormerV2 [asm_Beng]:  86%|████████▋ | 173/200 [02:22<01:20,  2.99s/it]
+Scoring TableFormerV2 [ben_Beng]:  87%|████████▋ | 174/200 [02:22<01:18,  3.01s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  87%|████████▋ | 174/200 [02:22<01:13,  2.83s/it][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  88%|████████▊ | 175/200 [02:22<01:08,  2.76s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  88%|████████▊ | 177/200 [02:23<01:00,  2.63s/it][A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  86%|████████▋ | 173/200 [02:23<01:29,  3.32s/it][A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  87%|████████▋ | 174/200 [02:23<01:18,  3.00s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  89%|████████▉ | 178/200 [02:23<00:57,  2.59s/it][A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  86%|████████▋ | 173/200 [02:24<01:30,  3.37s/it][A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  88%|████████▊ | 175/200 [02:24<01:12,  2.90s/it][A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  88%|████████▊ | 175/200 [02:24<01:05,  2.62s/it][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  86%|████████▌ | 172/200 [02:24<01:48,  3.89s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  88%|████████▊ | 176/200 [02:24<01:02,  2.61s/it][A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  87%|████████▋ | 174/200 [02:25<01:20,  3.09s/it]
+Scoring TableFormerV2 [ben_Beng]:  88%|████████▊ | 175/200 [02:25<01:16,  3.06s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  88%|████████▊ | 176/200 [02:25<01:01,  2.57s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  87%|████████▋ | 174/200 [02:26<01:21,  3.14s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  90%|████████▉ | 179/200 [02:26<00:52,  2.52s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  88%|████████▊ | 175/200 [02:26<01:12,  2.89s/it][A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  89%|████████▉ | 178/200 [02:26<00:59,  2.72s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  87%|████████▋ | 174/200 [02:26<01:20,  3.09s/it][A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  86%|████████▋ | 173/200 [02:26<01:29,  3.32s/it][A[A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  88%|████████▊ | 176/200 [02:26<00:59,  2.46s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  88%|████████▊ | 176/200 [02:26<00:59,  2.49s/it][A[A[AScoring TableFormerV2 [asm_Beng]:  88%|████████▊ | 175/200 [02:28<01:13,  2.96s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  88%|████████▊ | 177/200 [02:28<01:05,  2.86s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  88%|████████▊ | 176/200 [02:28<01:02,  2.58s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  90%|█████████ | 180/200 [02:28<00:46,  2.35s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  88%|████████▊ | 177/200 [02:28<00:58,  2.55s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  88%|████████▊ | 175/200 [02:28<01:14,  2.97s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  90%|████████▉ | 179/200 [02:28<00:55,  2.65s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  87%|████████▋ | 174/200 [02:29<01:21,  3.13s/it][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  88%|████████▊ | 175/200 [02:29<01:16,  3.07s/it][A[A
+Scoring TableFormerV2 [ben_Beng]:  88%|████████▊ | 177/200 [02:29<00:59,  2.61s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  88%|████████▊ | 177/200 [02:29<01:00,  2.64s/it][A[A[AScoring TableFormerV2 [asm_Beng]:  88%|████████▊ | 176/200 [02:29<01:02,  2.60s/it]
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  90%|█████████ | 181/200 [02:30<00:43,  2.30s/it][A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  88%|████████▊ | 176/200 [02:30<01:03,  2.66s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  90%|█████████ | 180/200 [02:30<00:48,  2.40s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  88%|████████▊ | 177/200 [02:30<00:58,  2.55s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  89%|████████▉ | 178/200 [02:30<01:01,  2.81s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  89%|████████▉ | 178/200 [02:31<00:58,  2.67s/it][A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  88%|████████▊ | 176/200 [02:31<01:06,  2.78s/it][A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  91%|█████████ | 182/200 [02:32<00:38,  2.15s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  88%|████████▊ | 175/200 [02:32<01:17,  3.09s/it][A[A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  88%|████████▊ | 177/200 [02:32<00:59,  2.61s/it]
+
+
+Scoring TableFormerV2 [guj_Gujr]:  89%|████████▉ | 178/200 [02:32<00:59,  2.70s/it][A[A[A
+Scoring TableFormerV2 [ben_Beng]:  89%|████████▉ | 178/200 [02:32<00:59,  2.72s/it][A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  88%|████████▊ | 177/200 [02:33<00:59,  2.58s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  92%|█████████▏| 183/200 [02:33<00:30,  1.77s/it][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  90%|█████████ | 181/200 [02:33<00:46,  2.42s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  90%|████████▉ | 179/200 [02:33<00:56,  2.67s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  88%|████████▊ | 176/200 [02:33<01:00,  2.51s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  90%|████████▉ | 179/200 [02:33<00:52,  2.51s/it][A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  88%|████████▊ | 177/200 [02:33<00:59,  2.58s/it][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  89%|████████▉ | 178/200 [02:33<00:58,  2.68s/it][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  90%|████████▉ | 179/200 [02:34<00:49,  2.36s/it][A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  91%|█████████ | 182/200 [02:34<00:36,  2.05s/it][A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  89%|████████▉ | 178/200 [02:34<00:52,  2.41s/it]
+Scoring TableFormerV2 [ben_Beng]:  90%|████████▉ | 179/200 [02:34<00:51,  2.48s/it][A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  90%|█████████ | 180/200 [02:34<00:46,  2.33s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  90%|█████████ | 180/200 [02:35<00:44,  2.25s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  89%|████████▉ | 178/200 [02:35<00:58,  2.64s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  92%|█████████▏| 184/200 [02:35<00:33,  2.09s/it][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  92%|█████████▏| 183/200 [02:36<00:33,  1.95s/it][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  90%|█████████ | 180/200 [02:36<00:44,  2.22s/it][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  88%|████████▊ | 177/200 [02:36<01:00,  2.62s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  90%|█████████ | 181/200 [02:36<00:39,  2.09s/it][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  90%|█████████ | 180/200 [02:36<00:45,  2.30s/it][A
+
+Scoring TableFormerV2 [eng_Latn]:  89%|████████▉ | 178/200 [02:36<00:58,  2.65s/it][A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  90%|█████████ | 181/200 [02:36<00:39,  2.06s/it][A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  90%|████████▉ | 179/200 [02:36<00:59,  2.85s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  90%|████████▉ | 179/200 [02:37<00:54,  2.57s/it]
+
+
+Scoring TableFormerV2 [guj_Gujr]:  90%|█████████ | 181/200 [02:37<00:39,  2.09s/it][A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  91%|█████████ | 182/200 [02:38<00:35,  1.99s/it][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  90%|█████████ | 181/200 [02:38<00:40,  2.13s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  91%|█████████ | 182/200 [02:38<00:34,  1.90s/it][A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  90%|█████████ | 180/200 [02:38<00:51,  2.56s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  90%|████████▉ | 179/200 [02:39<00:59,  2.84s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  92%|█████████▏| 184/200 [02:39<00:37,  2.32s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  90%|████████▉ | 179/200 [02:39<00:57,  2.76s/it][A[AScoring TableFormerV2 [asm_Beng]:  90%|█████████ | 180/200 [02:39<00:48,  2.42s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  92%|█████████▏| 183/200 [02:39<00:31,  1.87s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  89%|████████▉ | 178/200 [02:39<01:03,  2.88s/it][A[A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  91%|█████████ | 182/200 [02:39<00:37,  2.06s/it][A[A[A
+Scoring TableFormerV2 [ben_Beng]:  91%|█████████ | 182/200 [02:40<00:36,  2.04s/it][A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  92%|█████████▏| 183/200 [02:40<00:32,  1.89s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  90%|█████████ | 180/200 [02:40<00:47,  2.40s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  90%|█████████ | 180/200 [02:41<00:47,  2.38s/it][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  90%|█████████ | 181/200 [02:41<00:49,  2.58s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  90%|█████████ | 181/200 [02:41<00:43,  2.28s/it]
+
+
+Scoring TableFormerV2 [guj_Gujr]:  92%|█████████▏| 183/200 [02:41<00:32,  1.94s/it][A[A[A
+Scoring TableFormerV2 [ben_Beng]:  92%|█████████▏| 183/200 [02:41<00:33,  1.95s/it][A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  92%|█████████▎| 185/200 [02:42<00:50,  3.36s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  92%|█████████▏| 184/200 [02:42<00:34,  2.15s/it][A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  90%|█████████ | 181/200 [02:42<00:42,  2.23s/it][A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  90%|████████▉ | 179/200 [02:42<01:01,  2.93s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  91%|█████████ | 182/200 [02:43<00:42,  2.35s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  91%|█████████ | 182/200 [02:43<00:38,  2.12s/it]
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  90%|█████████ | 181/200 [02:43<00:48,  2.57s/it][A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  92%|█████████▏| 184/200 [02:43<00:38,  2.38s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  90%|█████████ | 180/200 [02:44<00:48,  2.42s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  92%|█████████▏| 183/200 [02:44<00:32,  1.92s/it][A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  92%|█████████▏| 184/200 [02:44<00:34,  2.13s/it][AScoring TableFormerV2 [asm_Beng]:  92%|█████████▏| 183/200 [02:44<00:31,  1.83s/it]
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  93%|█████████▎| 186/200 [02:44<00:41,  2.99s/it][A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  91%|█████████ | 182/200 [02:44<00:36,  2.03s/it][A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  92%|█████████▏| 184/200 [02:44<00:36,  2.27s/it][A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  91%|█████████ | 182/200 [02:44<00:38,  2.12s/it][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  90%|█████████ | 181/200 [02:45<00:42,  2.25s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  92%|█████████▎| 185/200 [02:46<00:55,  3.69s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  92%|█████████▏| 183/200 [02:46<00:33,  1.96s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  92%|█████████▏| 183/200 [02:46<00:34,  2.01s/it][A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  92%|█████████▏| 184/200 [02:46<00:33,  2.07s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  94%|█████████▎| 187/200 [02:47<00:37,  2.88s/it][A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  92%|█████████▏| 184/200 [02:47<00:36,  2.28s/it]
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  91%|█████████ | 182/200 [02:47<00:39,  2.17s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  93%|█████████▎| 186/200 [02:48<00:45,  3.26s/it][A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  92%|█████████▏| 184/200 [02:48<00:34,  2.13s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  92%|█████████▏| 184/200 [02:48<00:34,  2.16s/it][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  92%|█████████▏| 183/200 [02:48<00:30,  1.81s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  92%|█████████▎| 185/200 [02:48<00:51,  3.43s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  92%|█████████▎| 185/200 [02:50<00:55,  3.67s/it][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  94%|█████████▎| 187/200 [02:50<00:37,  2.88s/it][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  92%|█████████▎| 185/200 [02:51<00:54,  3.66s/it][A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  93%|█████████▎| 186/200 [02:51<00:45,  3.23s/it][A[A[A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  92%|█████████▎| 185/200 [02:51<00:55,  3.73s/it][A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  94%|█████████▍| 188/200 [02:51<00:41,  3.45s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  92%|█████████▏| 184/200 [02:52<00:35,  2.21s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  93%|█████████▎| 186/200 [02:52<00:45,  3.24s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  94%|█████████▎| 187/200 [02:53<00:35,  2.72s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  92%|█████████▎| 185/200 [02:53<00:51,  3.44s/it][A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  93%|█████████▎| 186/200 [02:53<00:45,  3.25s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  93%|█████████▎| 186/200 [02:54<00:47,  3.42s/it][A[A[AScoring TableFormerV2 [asm_Beng]:  92%|█████████▎| 185/200 [02:54<00:54,  3.65s/it]
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  94%|█████████▎| 187/200 [02:54<00:37,  2.89s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  94%|█████████▍| 189/200 [02:54<00:36,  3.30s/it][A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  92%|█████████▎| 185/200 [02:55<00:51,  3.42s/it][A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  94%|█████████▍| 188/200 [02:55<00:41,  3.47s/it][A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  93%|█████████▎| 186/200 [02:55<00:42,  3.03s/it][A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  92%|█████████▎| 185/200 [02:55<00:52,  3.49s/it][A[A
+Scoring TableFormerV2 [ben_Beng]:  94%|█████████▎| 187/200 [02:55<00:36,  2.79s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  94%|█████████▎| 187/200 [02:55<00:37,  2.87s/it][A[A[AScoring TableFormerV2 [asm_Beng]:  93%|█████████▎| 186/200 [02:56<00:43,  3.07s/it]
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  95%|█████████▌| 190/200 [02:56<00:29,  2.93s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  94%|█████████▍| 188/200 [02:57<00:37,  3.15s/it][A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  93%|█████████▎| 186/200 [02:57<00:42,  3.06s/it][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  92%|█████████▎| 185/200 [02:57<00:47,  3.16s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  94%|█████████▎| 187/200 [02:57<00:35,  2.76s/it][A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  93%|█████████▎| 186/200 [02:57<00:43,  3.09s/it][A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  94%|█████████▍| 189/200 [02:57<00:35,  3.21s/it][A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  94%|█████████▎| 187/200 [02:58<00:36,  2.81s/it]
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  94%|█████████▍| 188/200 [02:59<00:41,  3.43s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  94%|█████████▎| 187/200 [02:59<00:37,  2.88s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  94%|█████████▎| 187/200 [03:00<00:37,  2.89s/it][A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  93%|█████████▎| 186/200 [03:00<00:42,  3.00s/it][A[A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  94%|█████████▍| 188/200 [03:00<00:40,  3.35s/it][A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  94%|█████████▍| 189/200 [03:00<00:34,  3.10s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  96%|█████████▌| 191/200 [03:00<00:29,  3.25s/it][A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  95%|█████████▌| 190/200 [03:01<00:33,  3.34s/it][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  94%|█████████▍| 188/200 [03:01<00:45,  3.81s/it][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  94%|█████████▍| 189/200 [03:02<00:35,  3.26s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  94%|█████████▎| 187/200 [03:02<00:35,  2.75s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  95%|█████████▌| 190/200 [03:03<00:29,  3.00s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  94%|█████████▍| 188/200 [03:03<00:45,  3.80s/it][A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  94%|█████████▍| 189/200 [03:03<00:37,  3.42s/it][AScoring TableFormerV2 [asm_Beng]:  94%|█████████▍| 188/200 [03:03<00:42,  3.56s/it]
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  96%|█████████▌| 192/200 [03:03<00:25,  3.22s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  95%|█████████▌| 190/200 [03:04<00:30,  3.01s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  94%|█████████▍| 188/200 [03:04<00:41,  3.45s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  94%|█████████▍| 188/200 [03:05<00:42,  3.51s/it][A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  96%|█████████▌| 191/200 [03:05<00:30,  3.41s/it][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  94%|█████████▍| 189/200 [03:05<00:40,  3.72s/it][A[A[A
+Scoring TableFormerV2 [ben_Beng]:  95%|█████████▌| 190/200 [03:06<00:30,  3.08s/it][A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  94%|█████████▍| 189/200 [03:06<00:37,  3.45s/it][A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  96%|█████████▌| 191/200 [03:06<00:28,  3.21s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  94%|█████████▍| 188/200 [03:06<00:40,  3.36s/it][A[A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  94%|█████████▍| 189/200 [03:07<00:38,  3.51s/it]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  96%|█████████▌| 192/200 [03:07<00:24,  3.08s/it][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  95%|█████████▌| 190/200 [03:07<00:32,  3.23s/it][A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  94%|█████████▍| 189/200 [03:07<00:36,  3.34s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  94%|█████████▍| 189/200 [03:07<00:36,  3.33s/it][A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  96%|█████████▌| 191/200 [03:08<00:28,  3.18s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  96%|█████████▋| 193/200 [03:09<00:26,  3.85s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  95%|█████████▌| 190/200 [03:09<00:33,  3.35s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  95%|█████████▌| 190/200 [03:09<00:31,  3.17s/it]
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  94%|█████████▍| 189/200 [03:09<00:34,  3.18s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  95%|█████████▌| 190/200 [03:10<00:30,  3.01s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  97%|█████████▋| 194/200 [03:10<00:17,  2.91s/it][A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  96%|█████████▌| 191/200 [03:10<00:30,  3.36s/it][A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  96%|█████████▌| 192/200 [03:10<00:26,  3.29s/it][A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  95%|█████████▌| 190/200 [03:10<00:31,  3.12s/it][A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  96%|█████████▌| 191/200 [03:11<00:30,  3.34s/it][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  96%|█████████▌| 192/200 [03:11<00:26,  3.34s/it][A[A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  95%|█████████▌| 190/200 [03:11<00:29,  2.90s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  96%|█████████▋| 193/200 [03:12<00:25,  3.58s/it][A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  98%|█████████▊| 195/200 [03:12<00:13,  2.68s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  96%|█████████▌| 191/200 [03:12<00:30,  3.34s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  96%|█████████▌| 191/200 [03:13<00:29,  3.32s/it]
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  97%|█████████▋| 194/200 [03:13<00:17,  2.92s/it][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  96%|█████████▌| 192/200 [03:13<00:27,  3.43s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  96%|█████████▌| 192/200 [03:13<00:25,  3.16s/it][A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  96%|█████████▌| 191/200 [03:13<00:29,  3.30s/it][A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  96%|█████████▌| 191/200 [03:14<00:30,  3.35s/it][A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  98%|█████████▊| 195/200 [03:15<00:13,  2.63s/it][A[A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  96%|█████████▌| 191/200 [03:15<00:27,  3.09s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  96%|█████████▋| 193/200 [03:15<00:27,  3.91s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]:  98%|█████████▊| 197/200 [03:15<00:06,  2.28s/it][A[A[A[A[A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  96%|█████████▌| 192/200 [03:16<00:27,  3.38s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  96%|█████████▌| 192/200 [03:16<00:26,  3.27s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  97%|█████████▋| 194/200 [03:16<00:17,  2.97s/it][A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  96%|█████████▋| 193/200 [03:16<00:25,  3.69s/it][A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  96%|█████████▌| 192/200 [03:16<00:25,  3.20s/it][A[A[A[A
+
+
+
+
+
+
+
+Scoring TableFormerV2 [pan_Guru]: 100%|█████████▉| 199/200 [03:17<00:01,  1.62s/it][A[A[A[A[A[A[A[AScoring TableFormerV2 [pan_Guru]: 100%|██████████| 200/200 [03:17<00:00,  1.01it/s]
+
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  97%|█████████▋| 194/200 [03:17<00:16,  2.82s/it][A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  96%|█████████▌| 192/200 [03:17<00:25,  3.20s/it][A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]:  98%|█████████▊| 197/200 [03:17<00:05,  1.97s/it][A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  96%|█████████▋| 193/200 [03:18<00:24,  3.53s/it][A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  96%|█████████▌| 192/200 [03:18<00:24,  3.02s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  98%|█████████▊| 195/200 [03:18<00:13,  2.71s/it][A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  96%|█████████▋| 193/200 [03:18<00:27,  3.86s/it][A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  97%|█████████▋| 194/200 [03:19<00:16,  2.77s/it][A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  98%|█████████▊| 195/200 [03:19<00:13,  2.76s/it][A[A[A[A[A[A
+
+
+
+
+Scoring TableFormerV2 [kan_Knda]: 100%|█████████▉| 199/200 [03:20<00:01,  1.75s/it][A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  97%|█████████▋| 194/200 [03:20<00:20,  3.35s/it][AScoring TableFormerV2 [kan_Knda]: 100%|██████████| 200/200 [03:20<00:00,  1.00s/it]
+
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  96%|█████████▋| 193/200 [03:21<00:27,  3.88s/it][A[A[A[A[A[A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  96%|█████████▋| 193/200 [03:21<00:25,  3.61s/it][A[A[A[A
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]:  98%|█████████▊| 197/200 [03:21<00:06,  2.20s/it][A[A[A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  96%|█████████▋| 193/200 [03:22<00:28,  4.01s/it]
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  97%|█████████▋| 194/200 [03:22<00:18,  3.12s/it][A[A[A[A[A[A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]:  98%|█████████▊| 195/200 [03:22<00:14,  2.99s/it][A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  96%|█████████▋| 193/200 [03:22<00:27,  3.94s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  97%|█████████▋| 194/200 [03:22<00:17,  2.97s/it][A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]:  98%|█████████▊| 197/200 [03:23<00:06,  2.25s/it][A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  97%|█████████▋| 194/200 [03:23<00:18,  3.16s/it]
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tam_Taml]: 100%|█████████▉| 199/200 [03:23<00:01,  1.68s/it][A[A[A[A[A[A[A[A[AScoring TableFormerV2 [tam_Taml]: 100%|██████████| 200/200 [03:23<00:00,  1.02s/it]
+
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  96%|█████████▋| 193/200 [03:23<00:26,  3.73s/it][A[A[A[A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]:  98%|█████████▊| 195/200 [03:23<00:16,  3.29s/it][A
+
+Scoring TableFormerV2 [eng_Latn]:  97%|█████████▋| 194/200 [03:24<00:18,  3.10s/it][A[A
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  98%|█████████▊| 195/200 [03:24<00:13,  2.61s/it][A[A[A[A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  97%|█████████▋| 194/200 [03:24<00:17,  2.94s/it][A[A[A[A[A[A[A[A[A[A
+
+
+
+
+
+Scoring TableFormerV2 [mal_Mlym]: 100%|█████████▉| 199/200 [03:24<00:01,  1.73s/it][A[A[A[A[A[AScoring TableFormerV2 [mal_Mlym]: 100%|██████████| 200/200 [03:24<00:00,  1.02s/it]
+
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [guj_Gujr]:  98%|█████████▊| 197/200 [03:25<00:06,  2.15s/it][A[A[AScoring TableFormerV2 [ory_Orya]:  98%|█████████▊| 195/200 [03:25<00:14,  2.95s/it][A[A[A[A[A[A[AScoring TableFormerV2 [asm_Beng]:  98%|█████████▊| 195/200 [03:25<00:14,  2.99s/it]
+Scoring TableFormerV2 [ben_Beng]:  98%|█████████▊| 197/200 [03:26<00:07,  2.44s/it][A
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  98%|█████████▊| 195/200 [03:26<00:13,  2.66s/it][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  98%|█████████▊| 195/200 [03:27<00:15,  3.05s/it][A[A
+
+
+Scoring TableFormerV2 [guj_Gujr]: 100%|█████████▉| 199/200 [03:27<00:01,  1.69s/it][A[A[AScoring TableFormerV2 [guj_Gujr]: 100%|██████████| 200/200 [03:27<00:00,  1.04s/it]
+
+
+
+
+Scoring TableFormerV2 [hin_Deva]:  98%|█████████▊| 197/200 [03:27<00:05,  1.99s/it][A[A[A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]:  98%|█████████▊| 197/200 [03:27<00:06,  2.20s/it][A[A[A[A[A[A[A
+Scoring TableFormerV2 [ben_Beng]: 100%|█████████▉| 199/200 [03:28<00:01,  1.77s/it][AScoring TableFormerV2 [ben_Beng]: 100%|██████████| 200/200 [03:28<00:00,  1.04s/it]
+Scoring TableFormerV2 [asm_Beng]:  98%|█████████▊| 197/200 [03:28<00:06,  2.22s/it]
+
+
+
+Scoring TableFormerV2 [hin_Deva]: 100%|█████████▉| 199/200 [03:29<00:01,  1.54s/it][A[A[A[AScoring TableFormerV2 [hin_Deva]: 100%|██████████| 200/200 [03:29<00:00,  1.05s/it]
+
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]:  98%|█████████▊| 197/200 [03:29<00:06,  2.00s/it][A[A[A[A[A[A[A[A[A[A
+
+Scoring TableFormerV2 [eng_Latn]:  98%|█████████▊| 197/200 [03:29<00:06,  2.23s/it][A[A
+
+
+
+
+
+
+Scoring TableFormerV2 [ory_Orya]: 100%|█████████▉| 199/200 [03:29<00:01,  1.74s/it][A[A[A[A[A[A[AScoring TableFormerV2 [ory_Orya]: 100%|██████████| 200/200 [03:29<00:00,  1.05s/it]
+Scoring TableFormerV2 [asm_Beng]: 100%|█████████▉| 199/200 [03:30<00:01,  1.80s/it]Scoring TableFormerV2 [asm_Beng]: 100%|██████████| 200/200 [03:30<00:00,  1.05s/it]
+
+
+
+
+
+
+
+
+
+
+Scoring TableFormerV2 [tel_Telu]: 100%|█████████▉| 199/200 [03:31<00:01,  1.56s/it][A[A[A[A[A[A[A[A[A[AScoring TableFormerV2 [tel_Telu]: 100%|██████████| 200/200 [03:31<00:00,  1.06s/it]
+
+
+Scoring TableFormerV2 [eng_Latn]: 100%|█████████▉| 199/200 [03:31<00:01,  1.73s/it][A[AScoring TableFormerV2 [eng_Latn]: 100%|██████████| 200/200 [03:31<00:00,  1.06s/it]
+[FINISHED] pan_Guru: TEDS-Struct = 0.2808, GriTS-Top = 0.2726
+[FINISHED] kan_Knda: TEDS-Struct = 0.2783, GriTS-Top = 0.2732
+[FINISHED] tam_Taml: TEDS-Struct = 0.2872, GriTS-Top = 0.2819
+[FINISHED] mal_Mlym: TEDS-Struct = 0.2885, GriTS-Top = 0.2822
+[FINISHED] guj_Gujr: TEDS-Struct = 0.2789, GriTS-Top = 0.2776
+[FINISHED] ben_Beng: TEDS-Struct = 0.2827, GriTS-Top = 0.2777
+[FINISHED] hin_Deva: TEDS-Struct = 0.2782, GriTS-Top = 0.2767
+[FINISHED] ory_Orya: TEDS-Struct = 0.2790, GriTS-Top = 0.2719
+[FINISHED] asm_Beng: TEDS-Struct = 0.2834, GriTS-Top = 0.2767
+[FINISHED] tel_Telu: TEDS-Struct = 0.2764, GriTS-Top = 0.2722
+[FINISHED] eng_Latn: TEDS-Struct = 0.2798, GriTS-Top = 0.2792
+
+[DONE] TableFormerV2 - Overall TEDS-Struct: 0.2812 | GriTS-Top: 0.2765

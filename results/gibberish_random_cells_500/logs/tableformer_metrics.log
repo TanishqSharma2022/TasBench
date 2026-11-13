@@ -1,0 +1,3 @@
+[TableFormerV2] Starting parallel scoring of 500 items using 16 workers...
+[TableFormerV2] Finished scoring in 15.0s!
+[TableFormerV2] Summary saved. TEDS-Struct: 0.8553, GriTS-Top: 0.9218

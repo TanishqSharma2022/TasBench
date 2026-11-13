@@ -1,0 +1,122 @@
+[
+  {
+    "model_key": "unitable",
+    "model_name": "UniTable",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.9546303463373708,
+    "grits_top": 0.965690652152746,
+    "grits_precision": 0.9685038516603791,
+    "grits_recall": 0.9638888326202597,
+    "simple_teds": 0.989565314266691,
+    "complex_teds": 0.9214967219865167
+  },
+  {
+    "model_key": "tatr",
+    "model_name": "TATR v1.1-All",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.8963731198763174,
+    "grits_top": 0.915410384664208,
+    "grits_precision": 0.9389781033347682,
+    "grits_recall": 0.912734669255662,
+    "simple_teds": 0.9608967221279736,
+    "complex_teds": 0.8308522583056867
+  },
+  {
+    "model_key": "tableformer",
+    "model_name": "TableFormerV2",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.8515288213374137,
+    "grits_top": 0.9208900813948565,
+    "grits_precision": 0.9636963924084564,
+    "grits_recall": 0.8911386845542426,
+    "simple_teds": 0.8653529466772886,
+    "complex_teds": 0.8457949718164098
+  },
+  {
+    "model_key": "slanet",
+    "model_name": "SLANet-plus",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.8395273580571238,
+    "grits_top": 0.9280823209641821,
+    "grits_precision": 0.9598267055187648,
+    "grits_recall": 0.9099222416490076,
+    "simple_teds": 0.8401138903802103,
+    "complex_teds": 0.7978860286699583
+  },
+  {
+    "model_key": "mtltabnet",
+    "model_name": "MTL-TabNet",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.8381482406875806,
+    "grits_top": 0.8714926901969565,
+    "grits_precision": 0.9280238650194268,
+    "grits_recall": 0.8651859468700853,
+    "simple_teds": 0.9560466716807394,
+    "complex_teds": 0.7093295869031223
+  },
+  {
+    "model_key": "lore",
+    "model_name": "LORE-TSR",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.8272860859237016,
+    "grits_top": 0.9065356776539589,
+    "grits_precision": 0.9434471534706786,
+    "grits_recall": 0.8902830815025338,
+    "simple_teds": 0.8624605059883879,
+    "complex_teds": 0.7712688086867349
+  },
+  {
+    "model_key": "sprint",
+    "model_name": "SPRINT",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.7636673604658457,
+    "grits_top": 0.8325023980889958,
+    "grits_precision": 0.857276340896619,
+    "grits_recall": 0.85544580185851,
+    "simple_teds": 0.7395637991923735,
+    "complex_teds": 0.7657261635173583
+  },
+  {
+    "model_key": "pixtab",
+    "model_name": "PIX-TAB",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.7537507699833345,
+    "grits_top": 0.8194197485845116,
+    "grits_precision": 0.9209721448669129,
+    "grits_recall": 0.7983558356867816,
+    "simple_teds": 0.8478124279621712,
+    "complex_teds": 0.6290687770986378
+  },
+  {
+    "model_key": "cycle_centernet",
+    "model_name": "Cycle-CenterNet",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.3971353453418483,
+    "grits_top": 0.39011839044880997,
+    "grits_precision": 0.5205810094423745,
+    "grits_recall": 0.6114340153040785,
+    "simple_teds": 0.4442107467917191,
+    "complex_teds": 0.3692215213541544
+  },
+  {
+    "model_key": "tflop",
+    "model_name": "TFLOP",
+    "total_records": 500,
+    "valid": 500,
+    "teds_struct": 0.3161450747210863,
+    "grits_top": 0.3294429308852262,
+    "grits_precision": 0.3033380498341705,
+    "grits_recall": 0.7373319587390332,
+    "simple_teds": 0.15342463818413865,
+    "complex_teds": 0.4141841722274593
+  }
+]

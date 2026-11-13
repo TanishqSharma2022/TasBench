@@ -1,0 +1,1976 @@
+[
+  {
+    "model_key": "unitable",
+    "model_name": "UniTable",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.95010290999709,
+    "teds_struct_100": 0.6009090909090908,
+    "perfect_teds_count": 3305,
+    "grits_top": 0.963621980104178,
+    "grits_top_100": 0.6514545454545455,
+    "perfect_grits_count": 3583,
+    "has_bboxes": false,
+    "cell_iou_metrics": null,
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.9484074001640642,
+        "teds_struct_100": 0.59,
+        "grits_top": 0.9598614363253771,
+        "grits_top_100": 0.64,
+        "perfect_teds_count": 295,
+        "perfect_grits_count": 320,
+        "cell_iou": null
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.9425025469396762,
+        "teds_struct_100": 0.572,
+        "grits_top": 0.9591250669562957,
+        "grits_top_100": 0.62,
+        "perfect_teds_count": 286,
+        "perfect_grits_count": 310,
+        "cell_iou": null
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.9629523555776157,
+        "teds_struct_100": 0.666,
+        "grits_top": 0.9740910359430918,
+        "grits_top_100": 0.724,
+        "perfect_teds_count": 333,
+        "perfect_grits_count": 362,
+        "cell_iou": null
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.9464755767623985,
+        "teds_struct_100": 0.584,
+        "grits_top": 0.9617031881820914,
+        "grits_top_100": 0.642,
+        "perfect_teds_count": 292,
+        "perfect_grits_count": 321,
+        "cell_iou": null
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.949326883855014,
+        "teds_struct_100": 0.6,
+        "grits_top": 0.9611385348690178,
+        "grits_top_100": 0.642,
+        "perfect_teds_count": 300,
+        "perfect_grits_count": 321,
+        "cell_iou": null
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.9543867140041389,
+        "teds_struct_100": 0.608,
+        "grits_top": 0.9683528894415849,
+        "grits_top_100": 0.668,
+        "perfect_teds_count": 304,
+        "perfect_grits_count": 334,
+        "cell_iou": null
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.946113915691711,
+        "teds_struct_100": 0.58,
+        "grits_top": 0.9612561424979855,
+        "grits_top_100": 0.626,
+        "perfect_teds_count": 290,
+        "perfect_grits_count": 313,
+        "cell_iou": null
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.954959795837242,
+        "teds_struct_100": 0.638,
+        "grits_top": 0.9672231101982327,
+        "grits_top_100": 0.686,
+        "perfect_teds_count": 319,
+        "perfect_grits_count": 343,
+        "cell_iou": null
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.9489270763895408,
+        "teds_struct_100": 0.602,
+        "grits_top": 0.9616861106732005,
+        "grits_top_100": 0.64,
+        "perfect_teds_count": 301,
+        "perfect_grits_count": 320,
+        "cell_iou": null
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.9465633715197447,
+        "teds_struct_100": 0.58,
+        "grits_top": 0.9611164229438354,
+        "grits_top_100": 0.632,
+        "perfect_teds_count": 290,
+        "perfect_grits_count": 316,
+        "cell_iou": null
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.9505163732268446,
+        "teds_struct_100": 0.59,
+        "grits_top": 0.9642878431152446,
+        "grits_top_100": 0.646,
+        "perfect_teds_count": 295,
+        "perfect_grits_count": 323,
+        "cell_iou": null
+      }
+    }
+  },
+  {
+    "model_key": "tatr",
+    "model_name": "TATR v1.1-All",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.8888604589367338,
+    "teds_struct_100": 0.34945454545454546,
+    "perfect_teds_count": 1922,
+    "grits_top": 0.9118895654666096,
+    "grits_top_100": 0.42,
+    "perfect_grits_count": 2310,
+    "has_bboxes": true,
+    "cell_iou_metrics": {
+      "ap50": 0.7311422325723339,
+      "ap75": 0.19392959997859138,
+      "map": 0.3055002297582434,
+      "precision_50": 0.8783569361393899,
+      "recall_50": 0.8338166381829207,
+      "f1_50": 0.8554929585908314
+    },
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.8869816745463165,
+        "teds_struct_100": 0.334,
+        "grits_top": 0.9113047460562063,
+        "grits_top_100": 0.408,
+        "perfect_teds_count": 167,
+        "perfect_grits_count": 204,
+        "cell_iou": {
+          "ap50": 0.7697392546272172,
+          "ap75": 0.19070401961710484,
+          "map": 0.32092169512426777,
+          "precision_50": 0.9039961013645225,
+          "recall_50": 0.8549423893268647,
+          "f1_50": 0.8787852343136399
+        }
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.8843219140327805,
+        "teds_struct_100": 0.35,
+        "grits_top": 0.9082733957783107,
+        "grits_top_100": 0.412,
+        "perfect_teds_count": 175,
+        "perfect_grits_count": 206,
+        "cell_iou": {
+          "ap50": 0.751888777727947,
+          "ap75": 0.1911434943453353,
+          "map": 0.3213083857063714,
+          "precision_50": 0.8934207829473253,
+          "recall_50": 0.8458944815039418,
+          "f1_50": 0.86900831080155
+        }
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.9073888380616385,
+        "teds_struct_100": 0.398,
+        "grits_top": 0.9219269250744475,
+        "grits_top_100": 0.466,
+        "perfect_teds_count": 199,
+        "perfect_grits_count": 233,
+        "cell_iou": {
+          "ap50": 0.8116788453104296,
+          "ap75": 0.3433255366917051,
+          "map": 0.39911574184371446,
+          "precision_50": 0.9211186896219479,
+          "recall_50": 0.8812128562765312,
+          "f1_50": 0.9007239908757315
+        }
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.8922530338003616,
+        "teds_struct_100": 0.35,
+        "grits_top": 0.9156230364820651,
+        "grits_top_100": 0.43,
+        "perfect_teds_count": 175,
+        "perfect_grits_count": 215,
+        "cell_iou": {
+          "ap50": 0.7608397509221064,
+          "ap75": 0.18823513974610243,
+          "map": 0.3240559463852189,
+          "precision_50": 0.8935443586410786,
+          "recall_50": 0.8504548211036992,
+          "f1_50": 0.8714672764783375
+        }
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.8845227741490924,
+        "teds_struct_100": 0.342,
+        "grits_top": 0.9086409128422764,
+        "grits_top_100": 0.404,
+        "perfect_teds_count": 171,
+        "perfect_grits_count": 202,
+        "cell_iou": {
+          "ap50": 0.7317729714469328,
+          "ap75": 0.17071602710348546,
+          "map": 0.30518374666509324,
+          "precision_50": 0.8798698823350022,
+          "recall_50": 0.8398302001212856,
+          "f1_50": 0.8593839203713357
+        }
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.8849373958501959,
+        "teds_struct_100": 0.326,
+        "grits_top": 0.910119672930831,
+        "grits_top_100": 0.392,
+        "perfect_teds_count": 163,
+        "perfect_grits_count": 196,
+        "cell_iou": {
+          "ap50": 0.5881263095400824,
+          "ap75": 0.007844999418548902,
+          "map": 0.14406641905690673,
+          "precision_50": 0.7920100968473109,
+          "recall_50": 0.7458823529411764,
+          "f1_50": 0.7682544441529563
+        }
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.8765153470943351,
+        "teds_struct_100": 0.35,
+        "grits_top": 0.9015034356040554,
+        "grits_top_100": 0.424,
+        "perfect_teds_count": 175,
+        "perfect_grits_count": 212,
+        "cell_iou": {
+          "ap50": 0.6341671558259054,
+          "ap75": 0.03210513017996735,
+          "map": 0.18805957845032822,
+          "precision_50": 0.8211651633130317,
+          "recall_50": 0.7751121892055791,
+          "f1_50": 0.7974743567346327
+        }
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.900725912719255,
+        "teds_struct_100": 0.362,
+        "grits_top": 0.9207903036520805,
+        "grits_top_100": 0.428,
+        "perfect_teds_count": 181,
+        "perfect_grits_count": 214,
+        "cell_iou": {
+          "ap50": 0.7314556600609713,
+          "ap75": 0.052824919354919925,
+          "map": 0.24916152280470652,
+          "precision_50": 0.8794883531685485,
+          "recall_50": 0.8389326864766525,
+          "f1_50": 0.8587319519795403
+        }
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.885748277492273,
+        "teds_struct_100": 0.334,
+        "grits_top": 0.9104340877889613,
+        "grits_top_100": 0.388,
+        "perfect_teds_count": 167,
+        "perfect_grits_count": 194,
+        "cell_iou": {
+          "ap50": 0.7139811723795458,
+          "ap75": 0.04064748137414218,
+          "map": 0.22420866961500333,
+          "precision_50": 0.8688204627751098,
+          "recall_50": 0.8206428138265616,
+          "f1_50": 0.8440447083478869
+        }
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.8774311599691595,
+        "teds_struct_100": 0.346,
+        "grits_top": 0.9029709535520692,
+        "grits_top_100": 0.436,
+        "perfect_teds_count": 173,
+        "perfect_grits_count": 218,
+        "cell_iou": {
+          "ap50": 0.7593757120891436,
+          "ap75": 0.44464385791678906,
+          "map": 0.43218006540442555,
+          "precision_50": 0.9023170226000414,
+          "recall_50": 0.8445118253486962,
+          "f1_50": 0.8724579934593842
+        }
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.8966387205886635,
+        "teds_struct_100": 0.352,
+        "grits_top": 0.9191977503714026,
+        "grits_top_100": 0.432,
+        "perfect_teds_count": 176,
+        "perfect_grits_count": 216,
+        "cell_iou": {
+          "ap50": 0.7895389483653921,
+          "ap75": 0.47103499401640464,
+          "map": 0.4522407562846415,
+          "precision_50": 0.9061753839193707,
+          "recall_50": 0.87456640388114,
+          "f1_50": 0.8900903569841505
+        }
+      }
+    }
+  },
+  {
+    "model_key": "mtltabnet",
+    "model_name": "MTL-TabNet",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.8828833024684112,
+    "teds_struct_100": 0.44927272727272727,
+    "perfect_teds_count": 2471,
+    "grits_top": 0.907834692001513,
+    "grits_top_100": 0.48054545454545455,
+    "perfect_grits_count": 2643,
+    "has_bboxes": true,
+    "cell_iou_metrics": {
+      "ap50": 0.009814354648314592,
+      "ap75": 2.2579515029947792e-05,
+      "map": 0.0014969444743313904,
+      "precision_50": 0.10251725698350739,
+      "recall_50": 0.08963448922211809,
+      "f1_50": 0.09564125450681928
+    },
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.8808471869992558,
+        "teds_struct_100": 0.438,
+        "grits_top": 0.9054696599375129,
+        "grits_top_100": 0.468,
+        "perfect_teds_count": 219,
+        "perfect_grits_count": 234,
+        "cell_iou": {
+          "ap50": 0.008834458136690353,
+          "ap75": 2.8676143764537975e-05,
+          "map": 0.0013604348626909029,
+          "precision_50": 0.09914225242285842,
+          "recall_50": 0.08635536688902365,
+          "f1_50": 0.09230809121906318
+        }
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.8780454219810833,
+        "teds_struct_100": 0.45,
+        "grits_top": 0.9029612609766189,
+        "grits_top_100": 0.474,
+        "perfect_teds_count": 225,
+        "perfect_grits_count": 237,
+        "cell_iou": {
+          "ap50": 0.00858155300763079,
+          "ap75": 1.975040968384532e-05,
+          "map": 0.0013409979552839754,
+          "precision_50": 0.0963040948634122,
+          "recall_50": 0.08431776834445118,
+          "f1_50": 0.08991321667378004
+        }
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.9301036866586181,
+        "teds_struct_100": 0.574,
+        "grits_top": 0.9465782792849827,
+        "grits_top_100": 0.63,
+        "perfect_teds_count": 287,
+        "perfect_grits_count": 315,
+        "cell_iou": {
+          "ap50": 0.011152795744512221,
+          "ap75": 1.6285416029952137e-05,
+          "map": 0.001823016612752892,
+          "precision_50": 0.11264323701957345,
+          "recall_50": 0.09967252880533657,
+          "f1_50": 0.10576168230312859
+        }
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.8900971713965967,
+        "teds_struct_100": 0.484,
+        "grits_top": 0.9150942712165601,
+        "grits_top_100": 0.518,
+        "perfect_teds_count": 242,
+        "perfect_grits_count": 259,
+        "cell_iou": {
+          "ap50": 0.015038288636918043,
+          "ap75": 2.458296087446184e-05,
+          "map": 0.002216734729051198,
+          "precision_50": 0.1265722626940602,
+          "recall_50": 0.11252880533656762,
+          "f1_50": 0.1191381170065232
+        }
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.8812088973453452,
+        "teds_struct_100": 0.42,
+        "grits_top": 0.9061446445678449,
+        "grits_top_100": 0.446,
+        "perfect_teds_count": 210,
+        "perfect_grits_count": 223,
+        "cell_iou": {
+          "ap50": 0.008651954885346036,
+          "ap75": 2.545099438694917e-05,
+          "map": 0.00126336523006869,
+          "precision_50": 0.09709416037999441,
+          "recall_50": 0.08429351121892056,
+          "f1_50": 0.09024216061806141
+        }
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.8659652914712787,
+        "teds_struct_100": 0.402,
+        "grits_top": 0.8952396119370746,
+        "grits_top_100": 0.432,
+        "perfect_teds_count": 201,
+        "perfect_grits_count": 216,
+        "cell_iou": {
+          "ap50": 0.005203725641499386,
+          "ap75": 1.8476051776418037e-05,
+          "map": 0.0007499375074719327,
+          "precision_50": 0.07508232711306256,
+          "recall_50": 0.06636749545178897,
+          "f1_50": 0.07045644756325244
+        }
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.856571055721682,
+        "teds_struct_100": 0.4,
+        "grits_top": 0.8872376713750936,
+        "grits_top_100": 0.42,
+        "perfect_teds_count": 200,
+        "perfect_grits_count": 210,
+        "cell_iou": {
+          "ap50": 0.005594042492735779,
+          "ap75": 1.2121130117794834e-05,
+          "map": 0.0008429541280058994,
+          "precision_50": 0.08071404168090195,
+          "recall_50": 0.0687689508793208,
+          "f1_50": 0.07426423397817916
+        }
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.8979551092442136,
+        "teds_struct_100": 0.494,
+        "grits_top": 0.9200267878861957,
+        "grits_top_100": 0.53,
+        "perfect_teds_count": 247,
+        "perfect_grits_count": 265,
+        "cell_iou": {
+          "ap50": 0.01376135882324969,
+          "ap75": 2.6541244541074235e-05,
+          "map": 0.00211754896030204,
+          "precision_50": 0.12635429464983805,
+          "recall_50": 0.10976349302607641,
+          "f1_50": 0.11747601801731636
+        }
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.8614831059646668,
+        "teds_struct_100": 0.374,
+        "grits_top": 0.8905851683096686,
+        "grits_top_100": 0.406,
+        "perfect_teds_count": 187,
+        "perfect_grits_count": 203,
+        "cell_iou": {
+          "ap50": 0.008162610721794165,
+          "ap75": 1.9704552134687183e-05,
+          "map": 0.0011814794725091393,
+          "precision_50": 0.09160263143346785,
+          "recall_50": 0.08038811400849,
+          "f1_50": 0.08562975595261164
+        }
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.8678728483224325,
+        "teds_struct_100": 0.412,
+        "grits_top": 0.8941701788617737,
+        "grits_top_100": 0.452,
+        "perfect_teds_count": 206,
+        "perfect_grits_count": 226,
+        "cell_iou": {
+          "ap50": 0.006841146090840741,
+          "ap75": 1.65725438247111e-05,
+          "map": 0.0010507268993930582,
+          "precision_50": 0.08636946939686437,
+          "recall_50": 0.07510006064281383,
+          "f1_50": 0.08034150328917493
+        }
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.9015665520473505,
+        "teds_struct_100": 0.494,
+        "grits_top": 0.9226740776633169,
+        "grits_top_100": 0.51,
+        "perfect_teds_count": 247,
+        "perfect_grits_count": 255,
+        "cell_iou": {
+          "ap50": 0.016135966950243302,
+          "ap75": 4.021321819499389e-05,
+          "map": 0.0025191928601155655,
+          "precision_50": 0.1358110551645478,
+          "recall_50": 0.1184232868405094,
+          "f1_50": 0.1265225729539211
+        }
+      }
+    }
+  },
+  {
+    "model_key": "lore",
+    "model_name": "LORE-TSR",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.8571701294494786,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.9242279495631767,
+    "grits_top_100": 0.4238181818181818,
+    "perfect_grits_count": 2331,
+    "has_bboxes": true,
+    "cell_iou_metrics": {
+      "ap50": 0.006161838826371108,
+      "ap75": 2.649547111759163e-05,
+      "map": 0.0009343521792705198,
+      "precision_50": 0.08248819235574248,
+      "recall_50": 0.06983626440266828,
+      "f1_50": 0.07563261131737374
+    },
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.8575309479321749,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9255232077706946,
+        "grits_top_100": 0.426,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 213,
+        "cell_iou": {
+          "ap50": 0.005615415175674357,
+          "ap75": 2.6862603438696006e-05,
+          "map": 0.0009060614757748803,
+          "precision_50": 0.08102241896330144,
+          "recall_50": 0.06881746513038205,
+          "f1_50": 0.07442287513116475
+        }
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.8608279591657106,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9285139315529978,
+        "grits_top_100": 0.444,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 222,
+        "cell_iou": {
+          "ap50": 0.0067486062200144,
+          "ap75": 2.544296916057708e-05,
+          "map": 0.0009703665738186757,
+          "precision_50": 0.0852011535276818,
+          "recall_50": 0.07238326258338387,
+          "f1_50": 0.07827090546637289
+        }
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.8738059704377763,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9378608144794537,
+        "grits_top_100": 0.488,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 244,
+        "cell_iou": {
+          "ap50": 0.0036777166427494896,
+          "ap75": 1.4422418206860745e-05,
+          "map": 0.0005121622588613279,
+          "precision_50": 0.061908230152949745,
+          "recall_50": 0.05360824742268041,
+          "f1_50": 0.05746005746005746
+        }
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.8612052180999261,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9267993266605927,
+        "grits_top_100": 0.43,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 215,
+        "cell_iou": {
+          "ap50": 0.005206931058803604,
+          "ap75": 2.5882734893555844e-05,
+          "map": 0.0007668041546290849,
+          "precision_50": 0.07512857670559486,
+          "recall_50": 0.0641358399029715,
+          "f1_50": 0.06919835640817609
+        }
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.8582990671626552,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9230311676013938,
+        "grits_top_100": 0.416,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 208,
+        "cell_iou": {
+          "ap50": 0.005529693281890233,
+          "ap75": 3.145221916467961e-05,
+          "map": 0.0009125636731923469,
+          "precision_50": 0.0797855744958448,
+          "recall_50": 0.06823529411764706,
+          "f1_50": 0.07355979184644754
+        }
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.8527614207676101,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.920924860940108,
+        "grits_top_100": 0.398,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 199,
+        "cell_iou": {
+          "ap50": 0.007371988491506855,
+          "ap75": 2.9294553033379865e-05,
+          "map": 0.0011414352396977028,
+          "precision_50": 0.09307135470527404,
+          "recall_50": 0.07859308671922377,
+          "f1_50": 0.08522166839827978
+        }
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.8340800334997286,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9056114710467572,
+        "grits_top_100": 0.382,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 191,
+        "cell_iou": {
+          "ap50": 0.00896349312781238,
+          "ap75": 3.3482034685625725e-05,
+          "map": 0.001346682679302904,
+          "precision_50": 0.10059031176767227,
+          "recall_50": 0.08225591267434809,
+          "f1_50": 0.0905038966584819
+        }
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.8694078416264047,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9345504882654816,
+        "grits_top_100": 0.44,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 220,
+        "cell_iou": {
+          "ap50": 0.006709514837666797,
+          "ap75": 2.5098639061547786e-05,
+          "map": 0.001031807871892034,
+          "precision_50": 0.08470762482554331,
+          "recall_50": 0.07214069132807763,
+          "f1_50": 0.07792071684963452
+        }
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.8597622605480238,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9243478348435277,
+        "grits_top_100": 0.43,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 215,
+        "cell_iou": {
+          "ap50": 0.007283928575464257,
+          "ap75": 4.0679712801227624e-05,
+          "map": 0.0011549083463470746,
+          "precision_50": 0.09195959826523625,
+          "recall_50": 0.07818071558520315,
+          "f1_50": 0.0845122127096089
+        }
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.842104276649438,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9118275941132358,
+        "grits_top_100": 0.39,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 195,
+        "cell_iou": {
+          "ap50": 0.005310465420174801,
+          "ap75": 2.281400664494042e-05,
+          "map": 0.000783964352392655,
+          "precision_50": 0.0766224296339507,
+          "recall_50": 0.06372346876895088,
+          "f1_50": 0.06958018805456231
+        }
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.8590864280548162,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9275167479206999,
+        "grits_top_100": 0.418,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 209,
+        "cell_iou": {
+          "ap50": 0.005362474258325015,
+          "ap75": 1.6018291202417246e-05,
+          "map": 0.0007511173460670318,
+          "precision_50": 0.07737284287011807,
+          "recall_50": 0.06612492419648272,
+          "f1_50": 0.07130805550832495
+        }
+      }
+    }
+  },
+  {
+    "model_key": "slanet",
+    "model_name": "SLANet-plus",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.8501610728878749,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.9338911859931375,
+    "grits_top_100": 0.5196363636363637,
+    "perfect_grits_count": 2858,
+    "has_bboxes": true,
+    "cell_iou_metrics": {
+      "ap50": 0.4104826350345523,
+      "ap75": 0.07439660475166147,
+      "map": 0.14550789765502192,
+      "precision_50": 0.6446860794754584,
+      "recall_50": 0.6341165444622086,
+      "f1_50": 0.6393472192952072
+    },
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.8504389050835283,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.932641672430785,
+        "grits_top_100": 0.5,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 250,
+        "cell_iou": {
+          "ap50": 0.37074018121010366,
+          "ap75": 0.06596882423553811,
+          "map": 0.13015329608221188,
+          "precision_50": 0.6138484967577127,
+          "recall_50": 0.6062098241358399,
+          "f1_50": 0.6100052479343887
+        }
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.8499489455221337,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9351522528140546,
+        "grits_top_100": 0.532,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 266,
+        "cell_iou": {
+          "ap50": 0.3575341348143054,
+          "ap75": 0.061316645201895115,
+          "map": 0.12410629821075103,
+          "precision_50": 0.6018491269374142,
+          "recall_50": 0.5952941176470589,
+          "f1_50": 0.5985536761746807
+        }
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.874016758732214,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9522504181171775,
+        "grits_top_100": 0.596,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 298,
+        "cell_iou": {
+          "ap50": 0.36695772367393686,
+          "ap75": 0.08146254947137806,
+          "map": 0.13677008734587856,
+          "precision_50": 0.6075857391978299,
+          "recall_50": 0.6085142510612492,
+          "f1_50": 0.6080496406626835
+        }
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.8510680256295828,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9354340957982596,
+        "grits_top_100": 0.522,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 261,
+        "cell_iou": {
+          "ap50": 0.44600044103923636,
+          "ap75": 0.0786607595318753,
+          "map": 0.1589930139579669,
+          "precision_50": 0.6723290230591474,
+          "recall_50": 0.6634081261370528,
+          "f1_50": 0.6678387849040939
+        }
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.8443534604851716,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9285973121789498,
+        "grits_top_100": 0.516,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 258,
+        "cell_iou": {
+          "ap50": 0.41787880689882345,
+          "ap75": 0.0785539854295027,
+          "map": 0.15038430866527608,
+          "precision_50": 0.6493193768735565,
+          "recall_50": 0.6410187992722862,
+          "f1_50": 0.6451423898050609
+        }
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.8450952020207149,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.931124181721002,
+        "grits_top_100": 0.5,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 250,
+        "cell_iou": {
+          "ap50": 0.4907650211202452,
+          "ap75": 0.08384027326359254,
+          "map": 0.17027666366457997,
+          "precision_50": 0.7081038161877823,
+          "recall_50": 0.6922498483929654,
+          "f1_50": 0.700087087713273
+        }
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.8375147505323024,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9220955018345198,
+        "grits_top_100": 0.468,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 234,
+        "cell_iou": {
+          "ap50": 0.391152334098222,
+          "ap75": 0.05367657557538014,
+          "map": 0.1292513370704244,
+          "precision_50": 0.6371997700632326,
+          "recall_50": 0.6184354154032747,
+          "f1_50": 0.6276773844108523
+        }
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.8521499200119633,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9385601478229322,
+        "grits_top_100": 0.548,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 274,
+        "cell_iou": {
+          "ap50": 0.5499731094229052,
+          "ap75": 0.10810822763211332,
+          "map": 0.20220269328354706,
+          "precision_50": 0.7506389736718033,
+          "recall_50": 0.7337780473013947,
+          "f1_50": 0.7421127520730092
+        }
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.845157229694328,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9316111604103563,
+        "grits_top_100": 0.51,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 255,
+        "cell_iou": {
+          "ap50": 0.40936965545864584,
+          "ap75": 0.07325466543247505,
+          "map": 0.14450989646820608,
+          "precision_50": 0.6460364875206754,
+          "recall_50": 0.6347847180109157,
+          "f1_50": 0.6403611804434004
+        }
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.8459468061326032,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9251832518541311,
+        "grits_top_100": 0.496,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 248,
+        "cell_iou": {
+          "ap50": 0.2961323456653847,
+          "ap75": 0.04417230245819724,
+          "map": 0.09777281928869773,
+          "precision_50": 0.5538771650408123,
+          "recall_50": 0.5398908429351121,
+          "f1_50": 0.5467945804517929
+        }
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.8560817979220823,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9401530509423439,
+        "grits_top_100": 0.528,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 264,
+        "cell_iou": {
+          "ap50": 0.41880523197826663,
+          "ap75": 0.08934784403632856,
+          "map": 0.15616646016770136,
+          "precision_50": 0.6507588989200758,
+          "recall_50": 0.6416979987871437,
+          "f1_50": 0.6461966876740436
+        }
+      }
+    }
+  },
+  {
+    "model_key": "sprint",
+    "model_name": "SPRINT",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.8148508836753688,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.8915118321179397,
+    "grits_top_100": 0.3630909090909091,
+    "perfect_grits_count": 1997,
+    "has_bboxes": false,
+    "cell_iou_metrics": null,
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.8170167769593378,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8931760855552265,
+        "grits_top_100": 0.376,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 188,
+        "cell_iou": null
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.8146196419475428,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8918989495250053,
+        "grits_top_100": 0.38,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 190,
+        "cell_iou": null
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.8360573073494698,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.911037984292401,
+        "grits_top_100": 0.414,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 207,
+        "cell_iou": null
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.8203654922687654,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.896932728235839,
+        "grits_top_100": 0.378,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 189,
+        "cell_iou": null
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.8031015747973423,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8819233193608601,
+        "grits_top_100": 0.36,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 180,
+        "cell_iou": null
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.8041172364431776,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8816672488865311,
+        "grits_top_100": 0.298,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 149,
+        "cell_iou": null
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.7977100630626177,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8744318567442221,
+        "grits_top_100": 0.318,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 159,
+        "cell_iou": null
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.8284144100164605,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9050568945026444,
+        "grits_top_100": 0.416,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 208,
+        "cell_iou": null
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.8064352193796418,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8831095129455129,
+        "grits_top_100": 0.328,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 164,
+        "cell_iou": null
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.8077213311904795,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.884305911722017,
+        "grits_top_100": 0.34,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 170,
+        "cell_iou": null
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.8278006670142217,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9030896615270778,
+        "grits_top_100": 0.386,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 193,
+        "cell_iou": null
+      }
+    }
+  },
+  {
+    "model_key": "tableformer",
+    "model_name": "TableFormerV2",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.8041201825140813,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.8792689719123207,
+    "grits_top_100": 0.2858181818181818,
+    "perfect_grits_count": 1572,
+    "has_bboxes": true,
+    "cell_iou_metrics": {
+      "ap50": 0.04611535995302285,
+      "ap75": 0.0002538580452406015,
+      "map": 0.008138278122650479,
+      "precision_50": 0.21280822758317516,
+      "recall_50": 0.2118992226693864,
+      "f1_50": 0.21229136092325607
+    },
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.8090190075460781,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8856749675633137,
+        "grits_top_100": 0.28,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 140,
+        "cell_iou": {
+          "ap50": 0.045227451880630404,
+          "ap75": 0.00027985497337643036,
+          "map": 0.00816725866118775,
+          "precision_50": 0.21752250666398432,
+          "recall_50": 0.20982413583990298,
+          "f1_50": 0.21360398068921238
+        }
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.8007278413478678,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8759581447690636,
+        "grits_top_100": 0.276,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 138,
+        "cell_iou": {
+          "ap50": 0.047978082544500325,
+          "ap75": 0.00023115151982124282,
+          "map": 0.008463754320070729,
+          "precision_50": 0.2202630153179333,
+          "recall_50": 0.2169557307459066,
+          "f1_50": 0.21859686426904226
+        }
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.8351596560119581,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.9086168838797426,
+        "grits_top_100": 0.332,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 166,
+        "cell_iou": {
+          "ap50": 0.047897335673104946,
+          "ap75": 0.0002264452882751227,
+          "map": 0.008413445078947727,
+          "precision_50": 0.21989231377198182,
+          "recall_50": 0.215961188599151,
+          "f1_50": 0.21790902304406887
+        }
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.8109145082123216,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8870158897442232,
+        "grits_top_100": 0.306,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 153,
+        "cell_iou": {
+          "ap50": 0.05208598313146266,
+          "ap75": 0.00025065797719012406,
+          "map": 0.00918639150542451,
+          "precision_50": 0.22872540418598822,
+          "recall_50": 0.22134627046694966,
+          "f1_50": 0.22497534516765288
+        }
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.789591259963387,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8656326459895928,
+        "grits_top_100": 0.26,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 130,
+        "cell_iou": {
+          "ap50": 0.0416795890812702,
+          "ap75": 0.00024736078225973444,
+          "map": 0.007375942477374453,
+          "precision_50": 0.20045897605753762,
+          "recall_50": 0.20553062462098243,
+          "f1_50": 0.20296312265698918
+        }
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.8053551597051116,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8791151591825174,
+        "grits_top_100": 0.264,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 132,
+        "cell_iou": {
+          "ap50": 0.03939406412379258,
+          "ap75": 0.00023974390729131987,
+          "map": 0.006874728753598865,
+          "precision_50": 0.19894002382515255,
+          "recall_50": 0.19849605821710128,
+          "f1_50": 0.1987177930498555
+        }
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.7861066406887313,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.861865883762824,
+        "grits_top_100": 0.286,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 143,
+        "cell_iou": {
+          "ap50": 0.03662863654232342,
+          "ap75": 0.00021126559908043866,
+          "map": 0.006277205947589915,
+          "precision_50": 0.1849746145387333,
+          "recall_50": 0.19177683444511825,
+          "f1_50": 0.18831431770002144
+        }
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.8167994088501286,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8902561522579496,
+        "grits_top_100": 0.308,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 154,
+        "cell_iou": {
+          "ap50": 0.05310212590163968,
+          "ap75": 0.0002862526895617106,
+          "map": 0.009358461181608066,
+          "precision_50": 0.23318759635067857,
+          "recall_50": 0.22382049727107337,
+          "f1_50": 0.2284080501027304
+        }
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.7813085257958647,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8564827350620008,
+        "grits_top_100": 0.252,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 126,
+        "cell_iou": {
+          "ap50": 0.03858078011648617,
+          "ap75": 0.0002864815674952578,
+          "map": 0.006797766513067101,
+          "precision_50": 0.185555180560243,
+          "recall_50": 0.20004851425106124,
+          "f1_50": 0.19252947356134004
+        }
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.7995436702006206,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8745780977757807,
+        "grits_top_100": 0.28,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 140,
+        "cell_iou": {
+          "ap50": 0.03833190483227428,
+          "ap75": 0.00021043298359686716,
+          "map": 0.0067516595241613716,
+          "precision_50": 0.19357611940298508,
+          "recall_50": 0.1966282595512432,
+          "f1_50": 0.19509025270758124
+        }
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.8107963293328257,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8867621310485195,
+        "grits_top_100": 0.3,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 150,
+        "cell_iou": {
+          "ap50": 0.06636300565576665,
+          "ap75": 0.0003227912096983682,
+          "map": 0.011854445386124774,
+          "precision_50": 0.2577947527397089,
+          "recall_50": 0.25050333535476044,
+          "f1_50": 0.2540967472073224
+        }
+      }
+    }
+  },
+  {
+    "model_key": "pixtab",
+    "model_name": "PIX-TAB",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.7825404739524686,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.8608744166822825,
+    "grits_top_100": 0.3789090909090909,
+    "perfect_grits_count": 2084,
+    "has_bboxes": true,
+    "cell_iou_metrics": {
+      "ap50": 0.208789042532113,
+      "ap75": 0.02899695515444923,
+      "map": 0.06635584335239039,
+      "precision_50": 0.4206736020313298,
+      "recall_50": 0.49500854512376646,
+      "f1_50": 0.45429899920354033
+    },
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.7738159559430149,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8570197349092354,
+        "grits_top_100": 0.368,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 184,
+        "cell_iou": {
+          "ap50": 0.21717690072667997,
+          "ap75": 0.02881427770702655,
+          "map": 0.06926842794301433,
+          "precision_50": 0.4218243648729746,
+          "recall_50": 0.5115100060642814,
+          "f1_50": 0.4623581647755304
+        }
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.7759367568995875,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.854835364068774,
+        "grits_top_100": 0.366,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 183,
+        "cell_iou": {
+          "ap50": 0.19996524045541267,
+          "ap75": 0.02815757973361976,
+          "map": 0.06319514196220762,
+          "precision_50": 0.4039297857199336,
+          "recall_50": 0.49567010309278353,
+          "f1_50": 0.44512215045799614
+        }
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.8571920925956543,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.927603713118212,
+        "grits_top_100": 0.548,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 274,
+        "cell_iou": {
+          "ap50": 0.19825898966203243,
+          "ap75": 0.011323696829613275,
+          "map": 0.050181046676096186,
+          "precision_50": 0.43530778164924505,
+          "recall_50": 0.4545785324439054,
+          "f1_50": 0.4447345001483239
+        }
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.7689087874883168,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8480859976849913,
+        "grits_top_100": 0.336,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 168,
+        "cell_iou": {
+          "ap50": 0.20835336782652272,
+          "ap75": 0.029928358345410466,
+          "map": 0.06671418509840041,
+          "precision_50": 0.42946306429548564,
+          "recall_50": 0.4873741661613099,
+          "f1_50": 0.4565896669658785
+        }
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.7569052229300864,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8405504857512512,
+        "grits_top_100": 0.326,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 163,
+        "cell_iou": {
+          "ap50": 0.19698344132918874,
+          "ap75": 0.024481419073239686,
+          "map": 0.0625677978605604,
+          "precision_50": 0.41448599113016793,
+          "recall_50": 0.47835051546391755,
+          "f1_50": 0.4441341411229477
+        }
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.7745231600413213,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8526943483747221,
+        "grits_top_100": 0.354,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 177,
+        "cell_iou": {
+          "ap50": 0.2419161554981683,
+          "ap75": 0.046949345047371555,
+          "map": 0.08548380345935272,
+          "precision_50": 0.4524728093576852,
+          "recall_50": 0.5348453608247423,
+          "f1_50": 0.490222889222389
+        }
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.7634537145608132,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.837201391626774,
+        "grits_top_100": 0.36,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 180,
+        "cell_iou": {
+          "ap50": 0.20872461427104208,
+          "ap75": 0.04169305983090395,
+          "map": 0.07523947012974139,
+          "precision_50": 0.39775822719575943,
+          "recall_50": 0.5242207398423286,
+          "f1_50": 0.45231641847274406
+        }
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.80898026752935,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8818360659127843,
+        "grits_top_100": 0.422,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 211,
+        "cell_iou": {
+          "ap50": 0.2677317712694581,
+          "ap75": 0.04544994751287414,
+          "map": 0.09359990749170301,
+          "precision_50": 0.4828733731824155,
+          "recall_50": 0.5526015767131595,
+          "f1_50": 0.5153897492166556
+        }
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.7355627552899033,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8254049855104885,
+        "grits_top_100": 0.3,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 150,
+        "cell_iou": {
+          "ap50": 0.16302965068809294,
+          "ap75": 0.02501417248433395,
+          "map": 0.05198312696809584,
+          "precision_50": 0.3579564069455954,
+          "recall_50": 0.45055184960582173,
+          "f1_50": 0.398951822497154
+        }
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.77768365276743,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8514574695339877,
+        "grits_top_100": 0.362,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 181,
+        "cell_iou": {
+          "ap50": 0.18813950320514358,
+          "ap75": 0.019636832779042143,
+          "map": 0.05392764435599116,
+          "precision_50": 0.3877977515044796,
+          "recall_50": 0.486137052759248,
+          "f1_50": 0.43143459915611815
+        }
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.8149828474316764,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.8929290270138867,
+        "grits_top_100": 0.426,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 213,
+        "cell_iou": {
+          "ap50": 0.2063998329215015,
+          "ap75": 0.017517817355506043,
+          "map": 0.0577537249311312,
+          "precision_50": 0.4435400664908862,
+          "recall_50": 0.4692540933899333,
+          "f1_50": 0.45603488920320606
+        }
+      }
+    }
+  },
+  {
+    "model_key": "cycle_centernet",
+    "model_name": "Cycle-CenterNet",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.359523773317166,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.33588735153900484,
+    "grits_top_100": 0.014727272727272728,
+    "perfect_grits_count": 81,
+    "has_bboxes": true,
+    "cell_iou_metrics": {
+      "ap50": 0.1982776477135993,
+      "ap75": 0.12475596385451074,
+      "map": 0.11513779093091973,
+      "precision_50": 0.6062597028977552,
+      "recall_50": 0.3238877556645901,
+      "f1_50": 0.4210129151778374
+    },
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.33452085665552084,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3076118960290518,
+        "grits_top_100": 0.002,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 1,
+        "cell_iou": {
+          "ap50": 0.18076039989332207,
+          "ap75": 0.11150601990182651,
+          "map": 0.1030566553492892,
+          "precision_50": 0.5705250121632978,
+          "recall_50": 0.312892662219527,
+          "f1_50": 0.4041419932951092
+        }
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.33573737641178697,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.2994228725837153,
+        "grits_top_100": 0.002,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 1,
+        "cell_iou": {
+          "ap50": 0.18000296497415325,
+          "ap75": 0.11255024289472979,
+          "map": 0.10347733400433837,
+          "precision_50": 0.5681343581996712,
+          "recall_50": 0.310175864160097,
+          "f1_50": 0.4012740852319086
+        }
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.42781794746566293,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.4480079212978563,
+        "grits_top_100": 0.048,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 24,
+        "cell_iou": {
+          "ap50": 0.2617277241585822,
+          "ap75": 0.1909795908182249,
+          "map": 0.16903482675346787,
+          "precision_50": 0.7774852982357883,
+          "recall_50": 0.336737416616131,
+          "f1_50": 0.46993906567366284
+        }
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.34527065085563285,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.30559600676607984,
+        "grits_top_100": 0.004,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 2,
+        "cell_iou": {
+          "ap50": 0.171209938423108,
+          "ap75": 0.11123557065562,
+          "map": 0.100930483477078,
+          "precision_50": 0.5403813681479346,
+          "recall_50": 0.3182777440873257,
+          "f1_50": 0.40060452477635633
+        }
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.3380090590459101,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.30832611026458695,
+        "grits_top_100": 0.006,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 3,
+        "cell_iou": {
+          "ap50": 0.18544917645678594,
+          "ap75": 0.12154891273824218,
+          "map": 0.11000532928623759,
+          "precision_50": 0.5675868733980419,
+          "recall_50": 0.3276652516676774,
+          "f1_50": 0.4154773622047244
+        }
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.3547022089262554,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3213331683743892,
+        "grits_top_100": 0.014,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 7,
+        "cell_iou": {
+          "ap50": 0.194268338124135,
+          "ap75": 0.11336012633521417,
+          "map": 0.10827335959402393,
+          "precision_50": 0.594578853046595,
+          "recall_50": 0.32191631291691936,
+          "f1_50": 0.4176882524195452
+        }
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.40081590583972004,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3931029457815415,
+        "grits_top_100": 0.03,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 15,
+        "cell_iou": {
+          "ap50": 0.22298733007080696,
+          "ap75": 0.13281652889732457,
+          "map": 0.12582886287331996,
+          "precision_50": 0.7038037605359845,
+          "recall_50": 0.3159733171619163,
+          "f1_50": 0.4361408266787203
+        }
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.34269847337611425,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3135266188608027,
+        "grits_top_100": 0.006,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 3,
+        "cell_iou": {
+          "ap50": 0.20330984694761958,
+          "ap75": 0.12232606988814226,
+          "map": 0.11542343812136106,
+          "precision_50": 0.5866941297631308,
+          "recall_50": 0.3454699818071559,
+          "f1_50": 0.4348702290076336
+        }
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.30923619193641505,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.27189275240143645,
+        "grits_top_100": 0.002,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 1,
+        "cell_iou": {
+          "ap50": 0.16471461451509664,
+          "ap75": 0.10237227299071036,
+          "map": 0.09289233600113794,
+          "precision_50": 0.5041265474552957,
+          "recall_50": 0.32004851425106123,
+          "f1_50": 0.39153078030179383
+        }
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.39265673501213666,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.37886160478762854,
+        "grits_top_100": 0.026,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 13,
+        "cell_iou": {
+          "ap50": 0.1969547894548491,
+          "ap75": 0.11315471788142668,
+          "map": 0.11050941190504593,
+          "precision_50": 0.6216385542168674,
+          "recall_50": 0.312892662219527,
+          "f1_50": 0.41626462283178706
+        }
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.37329610096367105,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.34707896978196456,
+        "grits_top_100": 0.022,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 11,
+        "cell_iou": {
+          "ap50": 0.21966900183113355,
+          "ap75": 0.1404655493981567,
+          "map": 0.12708366287481715,
+          "precision_50": 0.6339019767126997,
+          "recall_50": 0.3407155852031534,
+          "f1_50": 0.44321032453496995
+        }
+      }
+    }
+  },
+  {
+    "model_key": "tflop",
+    "model_name": "TFLOP",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.3080567082300459,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.3358908473679305,
+    "grits_top_100": 0.0,
+    "perfect_grits_count": 0,
+    "has_bboxes": false,
+    "cell_iou_metrics": null,
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.3019514457449667,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3305525490252113,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.29919240456906954,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.33152483361918494,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.33595705262074727,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3605590228339252,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.3084368845385127,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.33236647039055117,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.3072173907247738,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3316327769829012,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.30121468534072104,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3340543699958469,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.2994474028095608,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.33300507112073413,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.3095439658419262,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3384649197593003,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.298545671865093,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3233301652507,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.3025561378134534,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.33017412957372605,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.32456074866168044,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3491350124951545,
+        "grits_top_100": 0.0,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 0,
+        "cell_iou": null
+      }
+    }
+  },
+  {
+    "model_key": "smoldocling",
+    "model_name": "SmolDocling-256M",
+    "num_languages": 11,
+    "total_tables": 5500,
+    "teds_struct": 0.26981974169185197,
+    "teds_struct_100": 0.0,
+    "perfect_teds_count": 0,
+    "grits_top": 0.3125204363179053,
+    "grits_top_100": 0.048545454545454544,
+    "perfect_grits_count": 267,
+    "has_bboxes": false,
+    "cell_iou_metrics": null,
+    "per_language": {
+      "asm_Beng": {
+        "count": 500,
+        "teds_struct": 0.21604634147585178,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.257468819960638,
+        "grits_top_100": 0.014,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 7,
+        "cell_iou": null
+      },
+      "ben_Beng": {
+        "count": 500,
+        "teds_struct": 0.22071671490363934,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.25180107189430684,
+        "grits_top_100": 0.018,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 9,
+        "cell_iou": null
+      },
+      "eng_Latn": {
+        "count": 500,
+        "teds_struct": 0.6761159364659205,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.7623172618621125,
+        "grits_top_100": 0.282,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 141,
+        "cell_iou": null
+      },
+      "guj_Gujr": {
+        "count": 500,
+        "teds_struct": 0.2668959146538528,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.32124954251304977,
+        "grits_top_100": 0.032,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 16,
+        "cell_iou": null
+      },
+      "hin_Deva": {
+        "count": 500,
+        "teds_struct": 0.27946144501629294,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3270398429579692,
+        "grits_top_100": 0.07,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 35,
+        "cell_iou": null
+      },
+      "kan_Knda": {
+        "count": 500,
+        "teds_struct": 0.2067554350733015,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.24228300121360818,
+        "grits_top_100": 0.008,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 4,
+        "cell_iou": null
+      },
+      "mal_Mlym": {
+        "count": 500,
+        "teds_struct": 0.1902952574588847,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.21998177093989146,
+        "grits_top_100": 0.012,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 6,
+        "cell_iou": null
+      },
+      "ory_Orya": {
+        "count": 500,
+        "teds_struct": 0.2514908774942737,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.2864048316046875,
+        "grits_top_100": 0.018,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 9,
+        "cell_iou": null
+      },
+      "pan_Guru": {
+        "count": 500,
+        "teds_struct": 0.21339870848663234,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.24315882258762286,
+        "grits_top_100": 0.022,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 11,
+        "cell_iou": null
+      },
+      "tam_Taml": {
+        "count": 500,
+        "teds_struct": 0.17279196840065983,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.20121162491166583,
+        "grits_top_100": 0.008,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 4,
+        "cell_iou": null
+      },
+      "tel_Telu": {
+        "count": 500,
+        "teds_struct": 0.27404855918106225,
+        "teds_struct_100": 0.0,
+        "grits_top": 0.3248082090514064,
+        "grits_top_100": 0.05,
+        "perfect_teds_count": 0,
+        "perfect_grits_count": 25,
+        "cell_iou": null
+      }
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "model": "UniTable",
+  "total_records": 500,
+  "overall": {
+    "count": 500,
+    "valid": 500,
+    "teds_struct": 0.7868327577352352,
+    "grits_top": 0.8423665190017326,
+    "grits_top_precision": 0.8377305583676664,
+    "grits_top_recall": 0.9038791822211034
+  },
+  "overall_by_complexity": {
+    "simple": {
+      "count": 150,
+      "teds_struct": 0.9136074145576228,
+      "grits_top": 0.9432882974120056
+    },
+    "medium": {
+      "count": 150,
+      "teds_struct": 0.7979806218738525,
+      "grits_top": 0.8468621394267869
+    },
+    "complex": {
+      "count": 200,
+      "teds_struct": 0.6833908670144815,
+      "grits_top": 0.7633034698752373
+    }
+  },
+  "languages": {
+    "chemical": {
+      "count": 500,
+      "valid": 500,
+      "teds_struct": 0.7868327577352352,
+      "grits_top": 0.8423665190017326,
+      "grits_top_precision": 0.8377305583676664,
+      "grits_top_recall": 0.9038791822211034,
+      "by_complexity": {
+        "simple": {
+          "count": 150,
+          "teds_struct": 0.9136074145576228,
+          "grits_top": 0.9432882974120056
+        },
+        "medium": {
+          "count": 150,
+          "teds_struct": 0.7979806218738525,
+          "grits_top": 0.8468621394267869
+        },
+        "complex": {
+          "count": 200,
+          "teds_struct": 0.6833908670144815,
+          "grits_top": 0.7633034698752373
+        }
+      }
+    }
+  }
+}

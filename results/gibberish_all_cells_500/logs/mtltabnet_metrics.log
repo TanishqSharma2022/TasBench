@@ -1,0 +1,3 @@
+[MTL-TabNet] Starting parallel scoring of 500 items using 16 workers...
+[MTL-TabNet] Finished scoring in 14.4s!
+[MTL-TabNet] Summary saved. TEDS-Struct: 0.8508, GriTS-Top: 0.8843

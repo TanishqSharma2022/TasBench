@@ -1,0 +1,46 @@
+{
+  "model": "LORE-TSR",
+  "total_records": 500,
+  "overall": {
+    "count": 500,
+    "valid": 500,
+    "teds_struct": 0.6265657290757037,
+    "grits_top": 0.7453740643068146,
+    "grits_top_precision": 0.6500970546319039,
+    "grits_top_recall": 0.9378466871543346
+  },
+  "overall_by_complexity": {
+    "simple": {
+      "count": 150,
+      "teds_struct": 0.4905809382082606,
+      "grits_top": 0.6563668388826753
+    },
+    "complex": {
+      "count": 200,
+      "teds_struct": 0.7348789256706018,
+      "grits_top": 0.8137553372538343
+    }
+  },
+  "languages": {
+    "chemical": {
+      "count": 500,
+      "valid": 500,
+      "teds_struct": 0.6265657290757037,
+      "grits_top": 0.7453740643068146,
+      "grits_top_precision": 0.6500970546319039,
+      "grits_top_recall": 0.9378466871543346,
+      "by_complexity": {
+        "simple": {
+          "count": 150,
+          "teds_struct": 0.4905809382082606,
+          "grits_top": 0.6563668388826753
+        },
+        "complex": {
+          "count": 200,
+          "teds_struct": 0.7348789256706018,
+          "grits_top": 0.8137553372538343
+        }
+      }
+    }
+  }
+}

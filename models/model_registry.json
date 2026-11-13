@@ -1,0 +1,191 @@
+{
+  "models": {
+    "unitable": {
+      "display_name": "UniTable (Large Structure)",
+      "architecture": "Encoder-Decoder ViT with Autoregressive Token Generation",
+      "conda_env": "unitable",
+      "checkpoint": "models/checkpoints/unitable_large_structure.pt",
+      "config": null,
+      "source_repo": "/scratch/tanish/tanishq/table-understanding/repos/unitable",
+      "bbox_support": true,
+      "input_resolution": [448, 448],
+      "output_format": "HTML + Cell BBoxes",
+      "scores": {
+        "teds_struct": 0.9501,
+        "grits_top": 0.9636,
+        "teds_struct_100": 0.6009
+      },
+      "notes": "Top performing model across multilingual benchmarks. Cell bounding box extraction parallelized across 6 GPUs."
+    },
+    "tatr": {
+      "display_name": "Table Transformer (TATR v1.1-All)",
+      "architecture": "ResNet-18 Backbone + DETR Object Detection Heads",
+      "conda_env": "tables-detr",
+      "checkpoint": "models/checkpoints/TATR-v1.1-All-msft.pth",
+      "config": "models/configs/structure_config.json",
+      "source_repo": "/scratch/tanish/tanishq/table-understanding/repos/table-transformer",
+      "bbox_support": true,
+      "input_resolution": [1000, 1000],
+      "output_format": "HTML + Cell & Grid BBoxes",
+      "scores": {
+        "teds_struct": 0.8889,
+        "grits_top": 0.9119,
+        "teds_struct_100": 0.3495
+      },
+      "notes": "Highly robust baseline. Detects table structures via separate row, column, and cell query slots."
+    },
+    "mtltabnet": {
+      "display_name": "MTL-TabNet",
+      "architecture": "ResNet + Multi-Head Transformer Decoder with PAPP-OTSL Prompts",
+      "conda_env": "mtltabnet",
+      "checkpoint": "models/checkpoints/mtltabnet_epoch_19.pth",
+      "config": "models/configs/table_master_ResnetExtract_Ranger_0705.py",
+      "source_repo": "/scratch/tanish/tanishq/table-understanding/repos/MTL-TabNet",
+      "bbox_support": true,
+      "input_resolution": [480, 480],
+      "output_format": "PAPP-OTSL -> HTML + Cell BBoxes",
+      "scores": {
+        "teds_struct": 0.8829,
+        "grits_top": 0.9078,
+        "teds_struct_100": 0.4493
+      },
+      "notes": "Strong end-to-end performer predicting cell layout tokens and positional coordinates simultaneously."
+    },
+    "lore": {
+      "display_name": "LORE-TSR",
+      "architecture": "Lineless Table Recognition with Cascaded Spatial Point & Logic Point Heads",
+      "conda_env": "lore-tsr",
+      "checkpoint": "installed via lineless_table_rec package",
+      "config": null,
+      "source_repo": "rapidocr / lineless_table_rec",
+      "bbox_support": true,
+      "input_resolution": [1024, 1024],
+      "output_format": "Logic Points -> HTML + Cell BBoxes",
+      "scores": {
+        "teds_struct": 0.8572,
+        "grits_top": 0.9242,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Specialized for lineless/open scientific tables. Excellent 2D grid topology F1 (GriTS)."
+    },
+    "slanet": {
+      "display_name": "SLANet-plus (PP-StructureV2)",
+      "architecture": "LCNet Backbone + Table Structure Attention & Coordinate Regressor",
+      "conda_env": "slanet",
+      "checkpoint": "installed via rapid_table package (ModelType.SLANETPLUS)",
+      "config": null,
+      "source_repo": "PaddleOCR / RapidTable",
+      "bbox_support": true,
+      "input_resolution": [488, 488],
+      "output_format": "HTML + Cell BBoxes",
+      "scores": {
+        "teds_struct": 0.8502,
+        "grits_top": 0.9339,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Extremely fast inference with top-tier GriTS-Top topology recovery."
+    },
+    "sprint": {
+      "display_name": "SPRINT",
+      "architecture": "Sequence-to-Point Representation for Table Structure",
+      "conda_env": "sprint",
+      "checkpoint": "models/checkpoints/SPRINT_merged.pt",
+      "config": null,
+      "source_repo": "/scratch/tanish/tanishq/table-understanding/repos/SPRINT",
+      "bbox_support": false,
+      "input_resolution": [1024, 1024],
+      "output_format": "OTSL Sequence -> HTML",
+      "scores": {
+        "teds_struct": 0.8149,
+        "grits_top": 0.8915,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Uses run_sprint_grid_aligned.py for docTR normalization and TATR grid boundary synchronization."
+    },
+    "tableformer": {
+      "display_name": "TableFormerV2",
+      "architecture": "Vision Transformer Encoder-Decoder with Coordinate Attention",
+      "conda_env": "tableformer",
+      "checkpoint": "HuggingFace: docling-project/TableFormerV2",
+      "config": null,
+      "source_repo": "docling-project/TableFormerV2",
+      "bbox_support": true,
+      "input_resolution": [448, 448],
+      "output_format": "HTML + Cell BBoxes",
+      "scores": {
+        "teds_struct": 0.8041,
+        "grits_top": 0.8793,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Official Hugging Face TableFormerV2 pipeline."
+    },
+    "pixtab": {
+      "display_name": "PIX-TAB",
+      "architecture": "PAPP-OTSL Dual-Branch Vision Table Transformer",
+      "conda_env": "mtltabnet",
+      "checkpoint": "models/checkpoints/pixtab_epoch_25.pth",
+      "config": "models/configs/table_master_ResnetExtract_Ranger_0705_cell150_batch4.py",
+      "source_repo": "/scratch/tanish/tanishq/table-understanding/repos/PIX-TAB/PIX-TAB-organized",
+      "bbox_support": true,
+      "input_resolution": [480, 480],
+      "output_format": "PAPP-OTSL -> HTML + Cell BBoxes",
+      "scores": {
+        "teds_struct": 0.7825,
+        "grits_top": 0.8609,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Trained with joint coordinate and structure token heads."
+    },
+    "cycle_centernet": {
+      "display_name": "Cycle-CenterNet",
+      "architecture": "Border Line Detector + Grid Intersection Clustering (WiredTableRecognition)",
+      "conda_env": "cycle-centernet",
+      "checkpoint": "installed via wired_table_rec package",
+      "config": null,
+      "source_repo": "RapidTable / wired_table_rec",
+      "bbox_support": true,
+      "input_resolution": [1024, 1024],
+      "output_format": "Wired Grid -> HTML + Cell BBoxes",
+      "scores": {
+        "teds_struct": 0.3595,
+        "grits_top": 0.3359,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Domain limitation: Designed exclusively for wired (bordered) tables (100% exact match). Fails on wireless open tables (~85% of PubTabNet)."
+    },
+    "tflop": {
+      "display_name": "TFLOP",
+      "architecture": "mBART Layout Pointer Mechanism (Decoupled TSR)",
+      "conda_env": "tflop",
+      "checkpoint": "models/checkpoints/upstage-TFLOP/pytorch_model.bin",
+      "config": "models/configs/tflop_config.json",
+      "source_repo": "/scratch/tanish/tanishq/table-understanding/repos/TFLOP",
+      "bbox_support": false,
+      "input_resolution": [768, 768],
+      "output_format": "OTSL Sequence -> HTML",
+      "scores": {
+        "teds_struct": 0.3081,
+        "grits_top": 0.3359,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Pipeline bug identified in batch_tflop.py: dummy bounding box inputs bypassed layout pointer mechanism. Requires true OCR boxes to function."
+    },
+    "smoldocling": {
+      "display_name": "SmolDocling-256M",
+      "architecture": "Multimodal Vision2Seq DocTags Model",
+      "conda_env": "smoldocling",
+      "checkpoint": "HuggingFace: ds4sd/smoldocling-256m",
+      "config": null,
+      "source_repo": "docling-core / HuggingFace",
+      "bbox_support": false,
+      "input_resolution": [768, 768],
+      "output_format": "DocTags -> HTML",
+      "scores": {
+        "teds_struct": 0.2698,
+        "grits_top": 0.3125,
+        "teds_struct_100": 0.0
+      },
+      "notes": "Initial batch run suffered from character-level string slicing. Resolved in run_smoldocling_fixed.py using official parse_otsl_table_content."
+    }
+  }
+}

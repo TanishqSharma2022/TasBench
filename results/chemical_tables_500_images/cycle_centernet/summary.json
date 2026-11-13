@@ -1,0 +1,46 @@
+{
+  "model": "Cycle-CenterNet",
+  "total_records": 500,
+  "overall": {
+    "count": 500,
+    "valid": 500,
+    "teds_struct": 0.35580378709635574,
+    "grits_top": 0.34650974754666414,
+    "grits_top_precision": 0.4304349297613676,
+    "grits_top_recall": 0.6625566285287321
+  },
+  "overall_by_complexity": {
+    "simple": {
+      "count": 150,
+      "teds_struct": 0.3850163675433976,
+      "grits_top": 0.4107264554681435
+    },
+    "complex": {
+      "count": 200,
+      "teds_struct": 0.30974453420184633,
+      "grits_top": 0.27663729838302575
+    }
+  },
+  "languages": {
+    "chemical": {
+      "count": 500,
+      "valid": 500,
+      "teds_struct": 0.35580378709635574,
+      "grits_top": 0.34650974754666414,
+      "grits_top_precision": 0.4304349297613676,
+      "grits_top_recall": 0.6625566285287321,
+      "by_complexity": {
+        "simple": {
+          "count": 150,
+          "teds_struct": 0.3850163675433976,
+          "grits_top": 0.4107264554681435
+        },
+        "complex": {
+          "count": 200,
+          "teds_struct": 0.30974453420184633,
+          "grits_top": 0.27663729838302575
+        }
+      }
+    }
+  }
+}

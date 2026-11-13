@@ -1,0 +1,3 @@
+[Cycle-CenterNet] Starting parallel scoring of 500 items using 16 workers...
+[Cycle-CenterNet] Finished scoring in 78.2s!
+[Cycle-CenterNet] Summary saved. TEDS-Struct: 0.3967, GriTS-Top: 0.4016

@@ -1,0 +1,3 @@
+[TFLOP] Starting parallel scoring of 500 items using 16 workers...
+[TFLOP] Finished scoring in 48.4s!
+[TFLOP] Summary saved. TEDS-Struct: 0.3280, GriTS-Top: 0.3935

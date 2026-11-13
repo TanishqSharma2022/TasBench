@@ -1,0 +1,626 @@
+[
+  {
+    "model_key": "unitable",
+    "model_name": "UniTable",
+    "total_records": 2200,
+    "valid": 2200,
+    "teds_struct": 0.9921278454874937,
+    "grits_top": 0.9887736918248314,
+    "grits_precision": 0.9899802257989178,
+    "grits_recall": 0.9880046311496478,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.9915089882147455,
+        "grits_top": 0.9888400593831546,
+        "grits_precision": 0.9890625915158132,
+        "grits_recall": 0.9888764814415733
+      },
+      "ben_Beng": {
+        "teds_struct": 0.9929214262968935,
+        "grits_top": 0.989442367037133,
+        "grits_precision": 0.9906188942136601,
+        "grits_recall": 0.9889295719126356
+      },
+      "eng_Latn": {
+        "teds_struct": 0.9932802362762463,
+        "grits_top": 0.9901268249403408,
+        "grits_precision": 0.9915609278744437,
+        "grits_recall": 0.9892582823717982
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.9925297676002212,
+        "grits_top": 0.9898571836747436,
+        "grits_precision": 0.9909641514618585,
+        "grits_recall": 0.9892925244777315
+      },
+      "hin_Deva": {
+        "teds_struct": 0.9918964632178094,
+        "grits_top": 0.9887945811292544,
+        "grits_precision": 0.9902546333828551,
+        "grits_recall": 0.987873448446519
+      },
+      "kan_Knda": {
+        "teds_struct": 0.991698268645507,
+        "grits_top": 0.9884562068474173,
+        "grits_precision": 0.9892019440582908,
+        "grits_recall": 0.987960239027392
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.9937442011301663,
+        "grits_top": 0.9875324149793867,
+        "grits_precision": 0.9882604573074291,
+        "grits_recall": 0.9869714709526533
+      },
+      "ory_Orya": {
+        "teds_struct": 0.9910765454558661,
+        "grits_top": 0.9874968177625879,
+        "grits_precision": 0.9880978561577439,
+        "grits_recall": 0.9871280069565117
+      },
+      "pan_Guru": {
+        "teds_struct": 0.9919985243828251,
+        "grits_top": 0.9894538019053692,
+        "grits_precision": 0.9911151775667449,
+        "grits_recall": 0.9882911034926708
+      },
+      "tam_Taml": {
+        "teds_struct": 0.9896943066511819,
+        "grits_top": 0.9866484703564715,
+        "grits_precision": 0.989055925863927,
+        "grits_recall": 0.9848355422027539
+      },
+      "tel_Telu": {
+        "teds_struct": 0.9930575724909678,
+        "grits_top": 0.9898618820572864,
+        "grits_precision": 0.9915899243853288,
+        "grits_recall": 0.9886342713638863
+      }
+    }
+  },
+  {
+    "model_key": "mtltabnet",
+    "model_name": "MTL-TabNet",
+    "total_records": 2200,
+    "valid": 2200,
+    "teds_struct": 0.965857683195685,
+    "grits_top": 0.9539970714626146,
+    "grits_precision": 0.9784525483697073,
+    "grits_recall": 0.9456431023041764,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.9751092424105751,
+        "grits_top": 0.9653487644368185,
+        "grits_precision": 0.9783764837206014,
+        "grits_recall": 0.959768777427977
+      },
+      "ben_Beng": {
+        "teds_struct": 0.967409165040626,
+        "grits_top": 0.9569407413918053,
+        "grits_precision": 0.9785522555644266,
+        "grits_recall": 0.950667422546944
+      },
+      "eng_Latn": {
+        "teds_struct": 0.9695018587963331,
+        "grits_top": 0.9577288267447656,
+        "grits_precision": 0.9807148196730047,
+        "grits_recall": 0.948848119583878
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.9659772526331981,
+        "grits_top": 0.9535913895155794,
+        "grits_precision": 0.9799895859246962,
+        "grits_recall": 0.9440412503315937
+      },
+      "hin_Deva": {
+        "teds_struct": 0.9649033878628658,
+        "grits_top": 0.9540435370315051,
+        "grits_precision": 0.9798172871981695,
+        "grits_recall": 0.9432732829763102
+      },
+      "kan_Knda": {
+        "teds_struct": 0.9624603725214911,
+        "grits_top": 0.9501849728760966,
+        "grits_precision": 0.9781366495487819,
+        "grits_recall": 0.9448000180603983
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.9649924423698913,
+        "grits_top": 0.9508784746913709,
+        "grits_precision": 0.9830092097908274,
+        "grits_recall": 0.9386099001717509
+      },
+      "ory_Orya": {
+        "teds_struct": 0.9639165473890222,
+        "grits_top": 0.9520278133883889,
+        "grits_precision": 0.9787006560760237,
+        "grits_recall": 0.943003654347389
+      },
+      "pan_Guru": {
+        "teds_struct": 0.9663462253424026,
+        "grits_top": 0.9538030441815103,
+        "grits_precision": 0.976017999680132,
+        "grits_recall": 0.943511323571336
+      },
+      "tam_Taml": {
+        "teds_struct": 0.9635475008843775,
+        "grits_top": 0.9512487995694872,
+        "grits_precision": 0.9751610787551964,
+        "grits_recall": 0.9440237636051234
+      },
+      "tel_Telu": {
+        "teds_struct": 0.9602705199017519,
+        "grits_top": 0.9481714222614329,
+        "grits_precision": 0.9745020061349202,
+        "grits_recall": 0.9415266127232396
+      }
+    }
+  },
+  {
+    "model_key": "tatr",
+    "model_name": "TATR v1.1-All",
+    "total_records": 2200,
+    "valid": 2200,
+    "teds_struct": 0.9542508441170622,
+    "grits_top": 0.9352123693293174,
+    "grits_precision": 0.9525892500580168,
+    "grits_recall": 0.9355078394613247,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.9605297894976612,
+        "grits_top": 0.9457795532662674,
+        "grits_precision": 0.9524832560340314,
+        "grits_recall": 0.9490531245200446
+      },
+      "ben_Beng": {
+        "teds_struct": 0.9571894747301911,
+        "grits_top": 0.9427429848010822,
+        "grits_precision": 0.9503704699513458,
+        "grits_recall": 0.9458624880544513
+      },
+      "eng_Latn": {
+        "teds_struct": 0.9574272953248673,
+        "grits_top": 0.9371335669566289,
+        "grits_precision": 0.9527193323486571,
+        "grits_recall": 0.9360982878055674
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.9531355335881021,
+        "grits_top": 0.9315545928307624,
+        "grits_precision": 0.9543294193399199,
+        "grits_recall": 0.9307531946067402
+      },
+      "hin_Deva": {
+        "teds_struct": 0.9550868419732782,
+        "grits_top": 0.9405363658919483,
+        "grits_precision": 0.9555082257308973,
+        "grits_recall": 0.9381200646003518
+      },
+      "kan_Knda": {
+        "teds_struct": 0.9519955507323488,
+        "grits_top": 0.9282441192143008,
+        "grits_precision": 0.953636555668268,
+        "grits_recall": 0.925955842827156
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.9509501493464045,
+        "grits_top": 0.9295374123957251,
+        "grits_precision": 0.9544327520160758,
+        "grits_recall": 0.9282632383505979
+      },
+      "ory_Orya": {
+        "teds_struct": 0.9500867996080383,
+        "grits_top": 0.9306672630348424,
+        "grits_precision": 0.9508378167685484,
+        "grits_recall": 0.9327149806946484
+      },
+      "pan_Guru": {
+        "teds_struct": 0.9574415971353915,
+        "grits_top": 0.9417997026490476,
+        "grits_precision": 0.9502983666373265,
+        "grits_recall": 0.9446350546251041
+      },
+      "tam_Taml": {
+        "teds_struct": 0.9486682138008726,
+        "grits_top": 0.9241357326426167,
+        "grits_precision": 0.9548057658067902,
+        "grits_recall": 0.9210372087907782
+      },
+      "tel_Telu": {
+        "teds_struct": 0.9542480395505283,
+        "grits_top": 0.9352047689392698,
+        "grits_precision": 0.9490597903363244,
+        "grits_recall": 0.9380927491991318
+      }
+    }
+  },
+  {
+    "model_key": "lore",
+    "model_name": "LORE-TSR",
+    "total_records": 2200,
+    "valid": 2200,
+    "teds_struct": 0.9370300268563513,
+    "grits_top": 0.9636299168752174,
+    "grits_precision": 0.9870227510946851,
+    "grits_recall": 0.9598582891861295,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.9452834442199647,
+        "grits_top": 0.9792502647380926,
+        "grits_precision": 0.9896025101396425,
+        "grits_recall": 0.9781692609627788
+      },
+      "ben_Beng": {
+        "teds_struct": 0.9426122263301463,
+        "grits_top": 0.9724510607264021,
+        "grits_precision": 0.9888038742158642,
+        "grits_recall": 0.9689240039599878
+      },
+      "eng_Latn": {
+        "teds_struct": 0.933501703277021,
+        "grits_top": 0.957198430879196,
+        "grits_precision": 0.9800982141786805,
+        "grits_recall": 0.9579543480796093
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.9380311691921533,
+        "grits_top": 0.9647221298644909,
+        "grits_precision": 0.9914362413848443,
+        "grits_recall": 0.9574275402821358
+      },
+      "hin_Deva": {
+        "teds_struct": 0.9380870301381777,
+        "grits_top": 0.9638344540340287,
+        "grits_precision": 0.992142728730964,
+        "grits_recall": 0.9562489592325025
+      },
+      "kan_Knda": {
+        "teds_struct": 0.9318074717633525,
+        "grits_top": 0.9555152390349598,
+        "grits_precision": 0.9824312144383658,
+        "grits_recall": 0.9520307019048037
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.9289231209337896,
+        "grits_top": 0.9532169655881436,
+        "grits_precision": 0.9806125250324597,
+        "grits_recall": 0.9526099120947709
+      },
+      "ory_Orya": {
+        "teds_struct": 0.9350326613998918,
+        "grits_top": 0.959501245200695,
+        "grits_precision": 0.9887776364036278,
+        "grits_recall": 0.9543764281559307
+      },
+      "pan_Guru": {
+        "teds_struct": 0.9408839071795706,
+        "grits_top": 0.9718667952092347,
+        "grits_precision": 0.9872712812127902,
+        "grits_recall": 0.9683134577024511
+      },
+      "tam_Taml": {
+        "teds_struct": 0.9317227554817535,
+        "grits_top": 0.9538728677574176,
+        "grits_precision": 0.9863259551824415,
+        "grits_recall": 0.948139183146043
+      },
+      "tel_Telu": {
+        "teds_struct": 0.9414448055040432,
+        "grits_top": 0.9684996325947306,
+        "grits_precision": 0.9897480811218556,
+        "grits_recall": 0.9642473855264103
+      }
+    }
+  },
+  {
+    "model_key": "slanet",
+    "model_name": "SLANet-plus",
+    "total_records": 2200,
+    "valid": 2200,
+    "teds_struct": 0.9311580078709305,
+    "grits_top": 0.9650442449961811,
+    "grits_precision": 0.9927149275675959,
+    "grits_recall": 0.9532494983586757,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.9404316963281257,
+        "grits_top": 0.9788855824497532,
+        "grits_precision": 0.9942601609412093,
+        "grits_recall": 0.9700917456963235
+      },
+      "ben_Beng": {
+        "teds_struct": 0.9376485035697133,
+        "grits_top": 0.9747072633106783,
+        "grits_precision": 0.995209595959596,
+        "grits_recall": 0.9654006273522907
+      },
+      "eng_Latn": {
+        "teds_struct": 0.9386500376522879,
+        "grits_top": 0.971421850779574,
+        "grits_precision": 0.9920749269005847,
+        "grits_recall": 0.9602342848673624
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.9229373975780639,
+        "grits_top": 0.9554667537969015,
+        "grits_precision": 0.9876600736773076,
+        "grits_recall": 0.9427423057810559
+      },
+      "hin_Deva": {
+        "teds_struct": 0.9296122109894615,
+        "grits_top": 0.9641877603151937,
+        "grits_precision": 0.9941392282790309,
+        "grits_recall": 0.9516353335194466
+      },
+      "kan_Knda": {
+        "teds_struct": 0.9268656738620731,
+        "grits_top": 0.9630344392473811,
+        "grits_precision": 0.996338020530021,
+        "grits_recall": 0.950283177028593
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.9357283328891595,
+        "grits_top": 0.9654159522377015,
+        "grits_precision": 0.9948359701336675,
+        "grits_recall": 0.9527169417937693
+      },
+      "ory_Orya": {
+        "teds_struct": 0.9201122253742021,
+        "grits_top": 0.9535493840466257,
+        "grits_precision": 0.9902799255515989,
+        "grits_recall": 0.9393029799049931
+      },
+      "pan_Guru": {
+        "teds_struct": 0.9348350501855958,
+        "grits_top": 0.9695480981564086,
+        "grits_precision": 0.9937900219298246,
+        "grits_recall": 0.9590467288061235
+      },
+      "tam_Taml": {
+        "teds_struct": 0.9262715902855226,
+        "grits_top": 0.9521286880361286,
+        "grits_precision": 0.9859150156044506,
+        "grits_recall": 0.9395302161929197
+      },
+      "tel_Telu": {
+        "teds_struct": 0.9296453678660301,
+        "grits_top": 0.9671409225816464,
+        "grits_precision": 0.9953612637362638,
+        "grits_recall": 0.9547601410025551
+      }
+    }
+  },
+  {
+    "model_key": "tableformer",
+    "model_name": "TableFormerV2",
+    "total_records": 2200,
+    "valid": 2200,
+    "teds_struct": 0.9279499320758038,
+    "grits_top": 0.9527676905441889,
+    "grits_precision": 0.9886748232031095,
+    "grits_recall": 0.9264232706174144,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.9240706694132842,
+        "grits_top": 0.9487868199121365,
+        "grits_precision": 0.983259984534036,
+        "grits_recall": 0.9249365952525982
+      },
+      "ben_Beng": {
+        "teds_struct": 0.9253717731327774,
+        "grits_top": 0.9497436535525867,
+        "grits_precision": 0.9834209824081148,
+        "grits_recall": 0.9260433912479381
+      },
+      "eng_Latn": {
+        "teds_struct": 0.9310668623240452,
+        "grits_top": 0.9554232596169311,
+        "grits_precision": 0.9906181899320486,
+        "grits_recall": 0.929100943053388
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.9287811737319704,
+        "grits_top": 0.9540950137015233,
+        "grits_precision": 0.9906467872405372,
+        "grits_recall": 0.9270511905849944
+      },
+      "hin_Deva": {
+        "teds_struct": 0.923276875554732,
+        "grits_top": 0.944607870453474,
+        "grits_precision": 0.9916382177871148,
+        "grits_recall": 0.9116011887302922
+      },
+      "kan_Knda": {
+        "teds_struct": 0.9280996956974009,
+        "grits_top": 0.953802257907645,
+        "grits_precision": 0.9863013184391861,
+        "grits_recall": 0.930758873098325
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.9276744358532079,
+        "grits_top": 0.9521815841853384,
+        "grits_precision": 0.9889764957264957,
+        "grits_recall": 0.9240791511798067
+      },
+      "ory_Orya": {
+        "teds_struct": 0.9284837831586656,
+        "grits_top": 0.9531087280616783,
+        "grits_precision": 0.9881032448990115,
+        "grits_recall": 0.9269590410724985
+      },
+      "pan_Guru": {
+        "teds_struct": 0.9316099572078005,
+        "grits_top": 0.9580625110284033,
+        "grits_precision": 0.9900134362505686,
+        "grits_recall": 0.9328545414102809
+      },
+      "tam_Taml": {
+        "teds_struct": 0.9281111073594225,
+        "grits_top": 0.9525072446119168,
+        "grits_precision": 0.9900351955098279,
+        "grits_recall": 0.9242973276492149
+      },
+      "tel_Telu": {
+        "teds_struct": 0.9309029194005344,
+        "grits_top": 0.9581256529544442,
+        "grits_precision": 0.9924092025072628,
+        "grits_recall": 0.9329737335122217
+      }
+    }
+  },
+  {
+    "model_key": "pixtab",
+    "model_name": "PIX-TAB",
+    "total_records": 2200,
+    "valid": 2196,
+    "teds_struct": 0.9052926478270558,
+    "grits_top": 0.9267164990623253,
+    "grits_precision": 0.9541245676934673,
+    "grits_recall": 0.9327775856077769,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.910936468030452,
+        "grits_top": 0.9392034798412637,
+        "grits_precision": 0.9552094550319179,
+        "grits_recall": 0.9466049529601914
+      },
+      "ben_Beng": {
+        "teds_struct": 0.9170802366129742,
+        "grits_top": 0.9431097068674681,
+        "grits_precision": 0.967114470257055,
+        "grits_recall": 0.9479795474620566
+      },
+      "eng_Latn": {
+        "teds_struct": 0.9147937218235582,
+        "grits_top": 0.9396130353952226,
+        "grits_precision": 0.9571650617084658,
+        "grits_recall": 0.9445978471522897
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.9094746515956507,
+        "grits_top": 0.9280961851422372,
+        "grits_precision": 0.9680155031474293,
+        "grits_recall": 0.9266349261431962
+      },
+      "hin_Deva": {
+        "teds_struct": 0.8912975427310107,
+        "grits_top": 0.9144702548015305,
+        "grits_precision": 0.9392962433052715,
+        "grits_recall": 0.9292293048064402
+      },
+      "kan_Knda": {
+        "teds_struct": 0.9036359584223784,
+        "grits_top": 0.9207869877499582,
+        "grits_precision": 0.9545102049496762,
+        "grits_recall": 0.9231543934718291
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.8933668990939837,
+        "grits_top": 0.909492853371657,
+        "grits_precision": 0.9455649247422638,
+        "grits_recall": 0.9127195197684155
+      },
+      "ory_Orya": {
+        "teds_struct": 0.9050852042652674,
+        "grits_top": 0.9200890478134307,
+        "grits_precision": 0.954337493879658,
+        "grits_recall": 0.9266821938971176
+      },
+      "pan_Guru": {
+        "teds_struct": 0.9143676783916505,
+        "grits_top": 0.9370021036819955,
+        "grits_precision": 0.96383459936864,
+        "grits_recall": 0.9414232896878977
+      },
+      "tam_Taml": {
+        "teds_struct": 0.8963918587481999,
+        "grits_top": 0.916518968046675,
+        "grits_precision": 0.942743083361715,
+        "grits_recall": 0.9274502449841024
+      },
+      "tel_Telu": {
+        "teds_struct": 0.9017889063824882,
+        "grits_top": 0.9254988669741406,
+        "grits_precision": 0.9475792048760472,
+        "grits_recall": 0.9340772213520099
+      }
+    }
+  },
+  {
+    "model_key": "tflop",
+    "model_name": "TFLOP",
+    "total_records": 2200,
+    "valid": 2200,
+    "teds_struct": 0.4184690656731831,
+    "grits_top": 0.335327066686723,
+    "grits_precision": 0.276554511588086,
+    "grits_recall": 0.7634382266745958,
+    "per_language": {
+      "asm_Beng": {
+        "teds_struct": 0.42902609583610063,
+        "grits_top": 0.3390674222579338,
+        "grits_precision": 0.28048566969543204,
+        "grits_recall": 0.7605887117819218
+      },
+      "ben_Beng": {
+        "teds_struct": 0.43827959548257667,
+        "grits_top": 0.3518642701708964,
+        "grits_precision": 0.29189397409511314,
+        "grits_recall": 0.7542555039093339
+      },
+      "eng_Latn": {
+        "teds_struct": 0.4336654509567778,
+        "grits_top": 0.3471343009605356,
+        "grits_precision": 0.28684870820285313,
+        "grits_recall": 0.7561696693446528
+      },
+      "guj_Gujr": {
+        "teds_struct": 0.4236554182113336,
+        "grits_top": 0.3401599424007947,
+        "grits_precision": 0.2832444438064325,
+        "grits_recall": 0.759258165425054
+      },
+      "hin_Deva": {
+        "teds_struct": 0.4093581882629173,
+        "grits_top": 0.3291783594018723,
+        "grits_precision": 0.2705828722955552,
+        "grits_recall": 0.7633393404277979
+      },
+      "kan_Knda": {
+        "teds_struct": 0.3966435375849467,
+        "grits_top": 0.32537461471350904,
+        "grits_precision": 0.26802054396452574,
+        "grits_recall": 0.7784030949954397
+      },
+      "mal_Mlym": {
+        "teds_struct": 0.4206817091995435,
+        "grits_top": 0.33471093584231154,
+        "grits_precision": 0.27560896486073744,
+        "grits_recall": 0.7600983962201547
+      },
+      "ory_Orya": {
+        "teds_struct": 0.41643030211868465,
+        "grits_top": 0.3351465744437217,
+        "grits_precision": 0.273837736066864,
+        "grits_recall": 0.767097899805598
+      },
+      "pan_Guru": {
+        "teds_struct": 0.41954647192019895,
+        "grits_top": 0.33468488065984353,
+        "grits_precision": 0.27515813388411425,
+        "grits_recall": 0.7602545548458134
+      },
+      "tam_Taml": {
+        "teds_struct": 0.40496444917858093,
+        "grits_top": 0.3233036230749138,
+        "grits_precision": 0.26632172313539654,
+        "grits_recall": 0.7719763984675715
+      },
+      "tel_Telu": {
+        "teds_struct": 0.41090850365335324,
+        "grits_top": 0.327972809627621,
+        "grits_precision": 0.270096857461922,
+        "grits_recall": 0.7663787581972166
+      }
+    }
+  }
+]

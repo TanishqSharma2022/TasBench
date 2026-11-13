@@ -1,0 +1,246 @@
+{
+  "model": "PIX-TAB",
+  "total_records": 2200,
+  "overall": {
+    "count": 2200,
+    "valid": 2192,
+    "teds_struct": 0.26109846669849507,
+    "grits_top": 0.2646131974216459,
+    "grits_top_precision": 0.2785428156267979,
+    "grits_top_recall": 0.8517288543182004
+  },
+  "overall_by_complexity": {
+    "simple": {
+      "count": 2200,
+      "teds_struct": 0.26109846669849507,
+      "grits_top": 0.2646131974216459
+    },
+    "complex": {
+      "count": 0,
+      "teds_struct": 0.0,
+      "grits_top": 0.0
+    }
+  },
+  "languages": {
+    "tam_Taml": {
+      "count": 200,
+      "valid": 197,
+      "teds_struct": 0.25427944112293505,
+      "grits_top": 0.2523583736041691,
+      "grits_top_precision": 0.3034259582883356,
+      "grits_top_recall": 0.8294391350025111,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.25427944112293505,
+          "grits_top": 0.2523583736041691
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "asm_Beng": {
+      "count": 200,
+      "valid": 199,
+      "teds_struct": 0.26290381577026645,
+      "grits_top": 0.26577614575997116,
+      "grits_top_precision": 0.2826454789087762,
+      "grits_top_recall": 0.8517672732846757,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.26290381577026645,
+          "grits_top": 0.26577614575997116
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "ben_Beng": {
+      "count": 200,
+      "valid": 200,
+      "teds_struct": 0.26919281791887856,
+      "grits_top": 0.2724799651861226,
+      "grits_top_precision": 0.28249483768934386,
+      "grits_top_recall": 0.8599769027773361,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.26919281791887856,
+          "grits_top": 0.2724799651861226
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "kan_Knda": {
+      "count": 200,
+      "valid": 200,
+      "teds_struct": 0.2649532007083218,
+      "grits_top": 0.27124495238515045,
+      "grits_top_precision": 0.2804220317445194,
+      "grits_top_recall": 0.8577210908555825,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.2649532007083218,
+          "grits_top": 0.27124495238515045
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "mal_Mlym": {
+      "count": 200,
+      "valid": 199,
+      "teds_struct": 0.255233937634696,
+      "grits_top": 0.2496394850510725,
+      "grits_top_precision": 0.2760284094241477,
+      "grits_top_recall": 0.8322823484476474,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.255233937634696,
+          "grits_top": 0.2496394850510725
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "hin_Deva": {
+      "count": 200,
+      "valid": 200,
+      "teds_struct": 0.25759756634156583,
+      "grits_top": 0.26779623982774137,
+      "grits_top_precision": 0.26835609717548925,
+      "grits_top_recall": 0.8603914614912199,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.25759756634156583,
+          "grits_top": 0.26779623982774137
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "guj_Gujr": {
+      "count": 200,
+      "valid": 200,
+      "teds_struct": 0.2592185608295557,
+      "grits_top": 0.2680997451597539,
+      "grits_top_precision": 0.2688964746041107,
+      "grits_top_recall": 0.8611146403698414,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.2592185608295557,
+          "grits_top": 0.2680997451597539
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "tel_Telu": {
+      "count": 200,
+      "valid": 199,
+      "teds_struct": 0.25916468662640996,
+      "grits_top": 0.26185379757418625,
+      "grits_top_precision": 0.27388923045590924,
+      "grits_top_recall": 0.8513167058808412,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.25916468662640996,
+          "grits_top": 0.26185379757418625
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "pan_Guru": {
+      "count": 200,
+      "valid": 199,
+      "teds_struct": 0.2672633320979531,
+      "grits_top": 0.2744006687429036,
+      "grits_top_precision": 0.27970254383236975,
+      "grits_top_recall": 0.8589848877446484,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.2672633320979531,
+          "grits_top": 0.2744006687429036
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "ory_Orya": {
+      "count": 200,
+      "valid": 200,
+      "teds_struct": 0.2656941157732281,
+      "grits_top": 0.26631363876227254,
+      "grits_top_precision": 0.27475531225704325,
+      "grits_top_recall": 0.8561589689744209,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.2656941157732281,
+          "grits_top": 0.26631363876227254
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    },
+    "eng_Latn": {
+      "count": 200,
+      "valid": 199,
+      "teds_struct": 0.2565816588596351,
+      "grits_top": 0.2607821595847614,
+      "grits_top_precision": 0.2733545975147319,
+      "grits_top_recall": 0.8498639826714803,
+      "by_complexity": {
+        "simple": {
+          "count": 200,
+          "teds_struct": 0.2565816588596351,
+          "grits_top": 0.2607821595847614
+        },
+        "complex": {
+          "count": 0,
+          "teds_struct": 0.0,
+          "grits_top": 0.0
+        }
+      }
+    }
+  }
+}
